@@ -1,8 +1,5 @@
 id,actor
 0,Documental
-0, (intervenciones de: Michael Moore
-0,George W. Bush
-0,George Bush)
 1,Jessica Chastain
 1,Joel Edgerton
 1,Taylor Kinney
@@ -85,15 +82,6 @@ id,actor
 9,Jack Kesy
 9,Laith Nakli
 10,Documental
-10, (intervenciones de: Ernest Borgnine
-10,Ken Ogata
-10,Tetsurô Tanba
-10,Tomorô Taguchi
-10,Mitsuko Baisho
-10,Kumiko Aso
-10,Taleb Adlah
-10,Emmanuelle Laborit
-10,Vladimir Vega)
 11,Jeff Daniels
 11,Tahar Rahim
 11,Peter Sarsgaard
@@ -129,7 +117,6 @@ id,actor
 16,Documental
 17,Documental
 18,Documental
-18, (intervenciones de: Nada Bakos)
 19,Josh Hartnett
 19,Naomie Harris
 19,Adam Scott
@@ -189,10 +176,7 @@ id,actor
 27,Beth Broderick
 27,Nicholas Guilak
 28,Documental
-28, (intervenciones de: George W. Bush)
 29,Documental
-29, (intervenciones de: Condoleezza Rice
-29,Donald Rumsfeld)
 30,Oona-Devi Liebich
 30,Golo Euler
 30,Peter Sattmann
@@ -222,8 +206,6 @@ id,actor
 32,Julian Gopal
 33,Documental
 34,Documental
-34, (intervenciones de: Osama Bin Laden
-34,Peter Bergen)
 35,Documental
 36,Shawn Ashmore
 36,David Suchet
@@ -234,7 +216,6 @@ id,actor
 36,Anousha Alamian
 36,Rick Boland
 37,Documental
-37, (Voz: Steven Mackintosh)
 38,Documental
 39,Leonardo DiCaprio
 39,Kate Winslet
@@ -862,8 +843,6 @@ id,actor
 121,Daniel Stewart Sherman
 121,Bridget Barkan
 122,Documental
-122, (intervenciones de: Jeffrey Epstein
-122,Ghislaine Maxwell)
 123,Clive Owen
 123,Liana Liberato
 123,Catherine Keener
@@ -902,8 +881,6 @@ id,actor
 127,Cristian Salguero
 127,Laura López Moyano
 128,Documental
-128, (intervenciones de: Wade Robson
-128,James Safechuck)
 129,David Sust
 129,Gunter Meisner
 129,Marisa Paredes
@@ -933,14 +910,6 @@ id,actor
 131,Diane Neal
 131,Raúl Esparza
 132,Documental
-132, (intervenciones de: Nevenka Fernández
-132,Ana Gaitero
-132,Juan José Millás
-132,Charo Velasco
-132,Adolfo Barreda
-132,José Antonio Bustos
-132,Menchu Monteira
-132,Rosa María Molla)
 133,Ulrich Thomsen
 133,Wotan Wilke Möhring
 133,Katrin Saß
@@ -982,7 +951,6 @@ id,actor
 136,Sarah-Jeanne Labrosse
 136,Larry Day
 137,Documental
-137, (intervenciones de: Sister Cathy Cesnik)
 138,Camille Keaton
 138,Eron Tabor
 138,Richard Pace
@@ -1347,16 +1315,6 @@ id,actor
 178,Sara Karlsdotter
 178,Henrik Norlén
 179,Documental
-179, (intervenciones de: Jay Asher
-179,Alisha Boe
-179,Ross Butler
-179,Devin Druid
-179,Brandon Flynn
-179,Selena Gomez
-179,Josh Hamilton
-179,Amy Hargreaves
-179,Rebecca Hedrick
-179,Miles Heizer)
 180,Julia Schacht
 180,Arthur Berning
 180,Julia Bache-Wiig
@@ -2740,9 +2698,6 @@ id,actor
 347,Touriya Haoud
 348,Documental
 349,Documental
-349, (intervenciones de: Bobby Fischer
-349,Anthony Saidy
-349,Harry Benson)
 350,Tishuan Scott
 350,Gene Williams
 350,Anne Dodge
@@ -2851,10 +2806,6 @@ id,actor
 362,Alan Gifford
 363,Animación
 364,Documental
-364, (intervenciones de: Garry Kasparov
-364,Anatoli Karpov
-364,Joel Benjamin
-364,Michael Greengard)
 365,Maximilian Schell
 365,Ingrid Thulin
 365,Samantha Eggar
@@ -2899,7 +2850,6 @@ id,actor
 369,Dee Wallace
 369,Udo Kier
 370,Documental
-370, (intervenciones de: Judit Polgár)
 371,César Évora
 371,Galina Belyayeva
 371,Eslinda Núñez
@@ -2920,7 +2870,6 @@ id,actor
 372,Karen LeBlanc
 372,Yves Michel-Beneche
 373,Documental
-373, (intervenciones de: Saravuth Inn)
 374,Helena Cruz
 374,Héctor Montoya 
 374,Laura Castillo
@@ -2930,9 +2879,6 @@ id,actor
 374,Jorge Maqueda
 374,David Díaz
 375,Documental
-375, (intervenciones de: Magnus Carlsen
-375,Garry Kasparov
-375,Viswanathan Anand)
 376,Stefania Sandrelli
 376,Carlos Fuentes
 376,Ingrid Rubio
@@ -2950,10 +2896,6 @@ id,actor
 377,Kanae Kobayashi
 377,Fujio Suga
 378,Documental
-378, (intervenciones de: Rochelle Ballantyne
-378,John Galvin
-378,Fred Rubino
-378,Elizabeth Vicary)
 379,Gonzalo De Sagarminaga
 379,Hernán Méndez
 379,Manuel Navarro
@@ -3471,11 +3413,7 @@ id,actor
 434,Ben Mendelsohn
 434,Steve Le Marquand
 435,Documental
-435, (intervenciones de: Alex Honnold)
 436,Documental
-436, (intervenciones de: Brendan Mackey
-436,Nicholas Aaron
-436,Joe Simpson)
 437,Clint Eastwood
 437,George Kennedy
 437,Vonetta McGee
@@ -3525,23 +3463,8 @@ id,actor
 442,Holly Boyd
 443,Documental
 444,Documental
-444, (intervenciones de: Jon Krakauer
-444,Jimmy Chin
-444,Renan Ozturk
-444,Grace Chin
-444,Conrad Anker
-444,Jennifer Lowe-Anker
-444,Amee Hinkley)
 445,Documental
-445, (intervenciones de: Yvon Chouinard
-445,Dean S. Potter
-445,Alex Honnold)
 446,Documental
-446, (intervenciones de: Kilian Jornet Burgada
-446,Sébastien Montaz-Rosset
-446,Vivian Bruchez
-446,Jordi Tosas
-446,Emelie Forsberg)
 447,Donald Sutherland
 447,Vittorio Mezzogiorno
 447,Mathilda May
@@ -3553,7 +3476,6 @@ id,actor
 447,Lautaro Murúa
 447,Volker Prechtel
 448,Documental
-448, (intervenciones de: Willem Dafoe)
 449,Benno Fürmann
 449,Florian Lukas
 449,Johanna Wokalek
@@ -3599,25 +3521,14 @@ id,actor
 454,Anna Massey
 454,Gerard Buhr
 455,Documental
-455, (intervenciones de: Kilian Jornet Burgada)
 456,Documental
 457,Documental
-457, (intervenciones de: Reinhold Messner
-457,Werner Herzog)
 458,Documental
-458, (intervenciones de: Kilian Jornet Burgada)
 459,Documental
 460,Documental
 461,Documental
 462,Documental
-462, (intervenciones de: Pemba Gyalje Sherpa
-462,Marco Confortola
-462,Cas van de Gevel
-462,Cecilie Skog
-462,Wilco Van Rooijen
-462,Hristo Mitzkov)
 463,Documental
-463, (intervenciones de: Joshua Pak)
 464,Glenn Ford
 464,Alida Valli
 464,Claude Rains
@@ -3662,16 +3573,6 @@ id,actor
 468,Violeta Markovska
 468,Nikolai Sotirov
 469,Documental
-469, (intervenciones de: Lhakpa Dorji
-469,Dorje Sherpa
-469,Ed Viesturs
-469,Muktu Lhakpa Sherpa
-469,Thilen Sherpa
-469,Jangbu Sherpa
-469,Araceli Segarra
-469,Wong Chu Sherpa
-469,Robert Schauer
-469,Jamling Tenzing Norgay)
 470,Nicole Eggert
 470,Marc Singer
 470,George Stults
@@ -3797,7 +3698,6 @@ id,actor
 489,Kim Yong-Taek
 489,Jang Hye-jin
 490,Documental
-490, (intervenciones de: Pasqual Maragall)
 491,Christopher Plummer
 491,Dean Norris
 491,Martin Landau
@@ -3862,8 +3762,6 @@ id,actor
 497,Monica Bellucci
 497,Tess Lauvergne
 498,Documental
-498, (intervenciones de: Kirsten Johnson
-498,Dick Johnson)
 499,Animación
 500,Documental
 501,Héctor Alterio
@@ -3886,16 +3784,6 @@ id,actor
 502,Josh Lucas
 502,Ann Whitney
 503,Documental
-503, (intervenciones de: Seth Rogen
-503,Sacha Baron Cohen
-503,Michael Che
-503,James Corden
-503,Jeff Goldblum
-503,Tiffany Haddish
-503,Nick Kroll
-503,Post Malone
-503,John Mulaney
-503,Kumail Nanjiani)
 504,Animación
 505,John Simm
 505,Jim Broadbent
@@ -3938,7 +3826,6 @@ id,actor
 508,Ben Temple
 508,Karina Kolokolchykova
 509,Documental
-509, (intervenciones de: Terry Pratchett)
 510,Isabel Ampudia
 510,Sebastián Haro
 510,Mercedes Hoyos
@@ -3955,7 +3842,6 @@ id,actor
 512,Documental
 513,Animación
 514,Documental
-514, (intervenciones de: Fang Xiuying)
 515,Giuliano Montaldo
 515,Andrea Carpenzano
 515,Donatella Finocchiaro
@@ -4014,16 +3900,6 @@ id,actor
 522,Annick Alane
 522,Florence Hebbelynck
 523,Documental
-523, (intervenciones de: Paul McCartney
-523,Blake Shelton
-523,Glen Campbell
-523,Jay Leno
-523,Keith Urban
-523,Sheryl Crow
-523,Bruce Springsteen
-523,Brad Paisley
-523,Bill Clinton
-523,The Edge)
 524,Nick Nolte
 524,Matt Dillon
 524,Emily Mortimer
@@ -4249,10 +4125,6 @@ id,actor
 548,Rodrigo Lisboa
 548,Claudio Riveros
 549,Documental
-549, (intervenciones de: Fernando de Retes
-549,Harold Torres
-549,Priscila Lepe
-549,Stefan Steinmann)
 550,Antonio Vilar
 550,Ana María Lynch
 550,Francisco de Paula
@@ -4400,10 +4272,6 @@ id,actor
 565,Madison Mason
 565,Gary Graham
 566,Documental
-566, (intervenciones de: Werner Herzog
-566,Steve Liptay
-566,Scott McKain
-566,Ralph Wade)
 567,Alison Pill
 567,Mariska Hargitay
 567,Alec McClure
@@ -5089,7 +4957,6 @@ id,actor
 689,Documental
 690,Documental
 691,Documental
-691, (intervenciones de: Félix Rodríguez de la Fuente)
 692,Robert Redford
 692,Kristin Scott Thomas
 692,Sam Neill
@@ -5452,10 +5319,6 @@ id,actor
 735,Amanda Burton
 735,Hannah Cresswell
 736,Documental
-736, (intervenciones de: Brian Danner
-736,Orion Barnes
-736,David C. Hernandez
-736,Johnny Winscher)
 737,Steve Reeves
 737,Mylène Demongeot
 737,Daniela Rocca
@@ -6230,10 +6093,7 @@ id,actor
 827,Louis Hilyer
 828,Animación
 829,Documental
-829, (intervenciones de: Brian Cox)
 830,Documental
-830, (intervenciones de: James Cameron
-830,Simcha Jacobovici)
 831,Andrew Keir
 831,Valerie Leon
 831,James Villiers
@@ -9941,9 +9801,6 @@ id,actor
 1247,Katharine Towne
 1247,Tricia Vessey
 1248,Documental
-1248, (intervenciones de: Danny Forster
-1248,Joseph Giotta
-1248,Larc Spies)
 1249,Pascal Greggory
 1249,Arielle Dombasle
 1249,Fabrice Luchini
@@ -9951,12 +9808,6 @@ id,actor
 1249,Fraçois-Marie Banier
 1249,Galaxie Barbouth
 1250,Documental
-1250, (intervenciones de: Jonathan Hart
-1250,Tom Goodman-Hill
-1250,Greg Stebner
-1250,Jay Simon
-1250,Mark Keller
-1250,Marlon Singleton)
 1251,Oscar Martínez
 1251,Joaquín Furriel
 1251,Soledad Villamil
@@ -9965,7 +9816,6 @@ id,actor
 1251,Santiago Segura
 1251,Zoe Hochbaum
 1252,Documental
-1252, (intervenciones de: Norman Foster)
 1253,Florinda Bolkan
 1253,Tony Musante
 1253,Toti Dal Monte
@@ -9974,17 +9824,8 @@ id,actor
 1253,Giuseppe Bella
 1254,Documental
 1255,Documental
-1255, (intervenciones de: Frank O. Gehry
-1255,Sydney Pollack
-1255,Michael Eisner
-1255,Bob Geldof
-1255,Dennis Hopper
-1255,Philip Johnson
-1255,Eddie Ruscha
-1255,Julian Schnabel)
 1256,Documental
 1257,Documental
-1257, (intervenciones de: Isidro Puig Boada)
 1258,Documental
 1259,Paola Cortellesi
 1259,Raoul Bova
@@ -9994,30 +9835,9 @@ id,actor
 1259,Corrado Fortuna
 1260,Will More
 1261,Documental
-1261, (intervenciones de: Caroline Quentin
-1261,Piers Taylor)
 1262,Documental
-1262, (intervenciones de: Jan Gehl
-1262,Rob Adams
-1262,Robert Doyle)
 1263,Documental
-1263, (intervenciones de: Michael Koltes
-1263,Carsten Hayes
-1263,Eirik Bar
-1263,Brando Boniver
-1263,Georg Nikoloff
-1263,Philip Delancy
-1263,Adam Ganne
-1263,Chris Wilson)
 1264,Documental
-1264, (intervenciones de: Thomas Campanella
-1264,Mindy Fullilove
-1264,Alexander Garvin
-1264,Paul Goldberger
-1264,Steven Johnson
-1264,Max Page
-1264,Mary Rowe
-1264,Michael Sorkin)
 1265,Parker Posey
 1265,James Frain
 1265,Eric McCormack
@@ -10030,7 +9850,6 @@ id,actor
 1265,Nicole Santora
 1266,Documental
 1267,Documental
-1267, (intervenciones de: Ramón Gener)
 1268,Documental
 1269,Vittorio Mezzogiorno
 1269,Claire Nebout
@@ -10039,10 +9858,6 @@ id,actor
 1269,Paolo Graziosi
 1269,Maria Schneider
 1270,Documental
-1270, (intervenciones de: Oscar Niemeyer
-1270,Eduardo Galeano
-1270,Chico Buarque de Hollanda
-1270,José Saramago)
 1271,Animación
 1272,Documental
 1273,Ajda Toman
@@ -10050,13 +9865,6 @@ id,actor
 1275,Documental
 1276,Documental
 1277,Documental
-1277, (intervenciones de: Liev Schreiber
-1277,Simon Schama
-1277,David Olusoga
-1277,Mary Beard
-1277,Wulf Hein
-1277,Sharon Stocker
-1277,William Fash)
 1278,Documental
 1279,Animación
 1280,Anthony LaPaglia
@@ -10070,32 +9878,12 @@ id,actor
 1280,Malcolm Goodwin
 1280,Marsha Stephanie Blake
 1281,Documental
-1281, (intervenciones de: José Alarcón
-1281,José Durán
-1281,Rosa María Escudero
-1281,Fernando Galindo
-1281,Ángel García García
-1281,Ernesto Garrido
-1281,Félix López Rey
-1281,Belén Martínez
-1281,Juan José Méndez
-1281,Pascual)
 1282,Documental
-1282, (intervenciones de: Jacque Fresco
-1282,Larry King
-1282,William Gazecki
-1282,Roxanne Meadows)
 1283,Documental
 1284,Documental
-1284, (intervenciones de: Eddie McCann
-1284,Alisdair Simpson
-1284,Peter Harlowe
-1284,Brian Dobson)
 1285,Animación
 1286,Documental
 1287,Documental
-1287, (intervenciones de: Taco Dibbits
-1287,Wim Pijbes)
 1288,Documental
 1289,Keanu Reeves
 1289,Laurence Fishburne
@@ -10878,7 +10666,6 @@ id,actor
 1379,Rachelle Verdel
 1379,Julia Akkermans
 1380,Documental
-1380, (intervenciones de: Usain Bolt)
 1381,Billy Crudup
 1381,Donald Sutherland
 1381,Monica Potter
@@ -10920,7 +10707,6 @@ id,actor
 1385,Annie Dylan
 1385,Bebe Drake
 1386,Documental
-1386, (intervenciones de: Lorena Ramírez)
 1387,Cho Seung-woo
 1387,Lee Ki-young
 1387,Baek Sung-Hyun
@@ -10951,7 +10737,6 @@ id,actor
 1390,Dick Wesson
 1390,Jack Big Head.
 1391,Documental
-1391, (intervenciones de: Usain Bolt)
 1392,Judit Bárdos
 1392,Roman Luknár
 1392,Anna Geislerová
@@ -11022,7 +10807,6 @@ id,actor
 1404,Marianne Stone
 1404,Elaine Taylor
 1405,Documental
-1405, (intervenciones de: Karl Meltzer)
 1406,Animación
 1407,Billy Crudup
 1407,Graham Rogers
@@ -11035,7 +10819,6 @@ id,actor
 1407,Thomas Cocquerel
 1407,Ty Parker
 1408,Documental
-1408, (intervenciones de: Usain Bolt)
 1409,Rachida Brakni
 1409,Cyril Descours
 1409,Clémentine Célarié
@@ -11197,9 +10980,6 @@ id,actor
 1427,Zoe Hochbaum
 1427,Juan Antonio Sánchez
 1428,Documental
-1428, (intervenciones de: María Gallardo
-1428,Miguel Gallardo
-1428,May Suárez)
 1429,Kiefer Sutherland
 1429,David Mazouz
 1429,Gugu Mbatha-Raw
@@ -11369,10 +11149,6 @@ id,actor
 1454,Kelly Swiderski
 1454,Lisa Fusco
 1455,Documental
-1455, (intervenciones de: Jack Hanke
-1455,Noah Britton
-1455,Ethan Finlan
-1455,New Michael Ingemi)
 1456,Ekaterine Demetradze
 1456,Lasha Murjikneli
 1456,Lili Okroshidze
@@ -11402,16 +11178,6 @@ id,actor
 1461,Aida Hadzibegovic
 1461,Hava Dombic
 1462,Documental
-1462, (intervenciones de: Valentine Alaoui
-1462,Guillaume Briat
-1462,Christian Cloarec
-1462,Thomas Coumans
-1462,Jennifer Decker
-1462,Isabelle Eisenstein
-1462,Charles Fresse
-1462,Thierry Godard
-1462,Arly Jover
-1462,Mathilde Lebas)
 1463,Tiffany Bolling
 1463,Ben Piazza
 1463,Susan Sennett
@@ -11423,7 +11189,6 @@ id,actor
 1463,Dolores Dorn
 1463,Phyllis Major
 1464,Documental
-1464, (intervenciones de: Jordan O'Donegan)
 1465,Mark Hamill
 1465,Harrison Ford
 1465,Carrie Fisher
@@ -12264,12 +12029,10 @@ id,actor
 1586,Michelle Duquet
 1586,Ashley Newbrough
 1587,Documental
-1587, (intervenciones de: Stephen Fry)
 1588,Nikos Zoiopoulos
 1588,Panagiotis Bougiouris
 1589,Animación
 1590,Documental
-1590, (intervenciones de: David Attenborough)
 1591,Animación
 1592,Animación
 1593,Animación
@@ -12978,7 +12741,6 @@ id,actor
 1672,Lyriq Bent
 1672,Jasika Nicole
 1673,Documental
-1673, (intervenciones de: Pina Bausch)
 1674,Victor Polster
 1674,Arieh Worthalter
 1674,Valentijn Dhaenens
@@ -13155,7 +12917,6 @@ id,actor
 1695,Kar Will
 1695,Tina Benko
 1696,Documental
-1696, (intervenciones de: Sergei Polunin)
 1697,Anne Bancroft
 1697,Shirley MacLaine
 1697,Mikhail Baryshnikov
@@ -13285,15 +13046,6 @@ id,actor
 1714,Beckie King
 1714,Brianna Haynes
 1715,Documental
-1715, (intervenciones de: Don Freisinger
-1715,Richard Sandifer
-1715,Patricia Ferrier
-1715,Bud Bready
-1715,Genaro Gomez
-1715,Barbara Levin
-1715,Richard Englund
-1715,Rosemary Williams
-1715,Phillip Salem)
 1716,Documental
 1717,David Holmes
 1717,Anna Marie Holmes
@@ -13305,7 +13057,6 @@ id,actor
 1718,Jorge Peñalver
 1718,Salvador Palomino
 1719,Documental
-1719, (intervenciones de: Pina Bausch)
 1720,Clark Gable
 1720,Gene Tierney
 1720,Bernard Miles
@@ -13317,14 +13068,6 @@ id,actor
 1720,Anna Valentina
 1720,Frederick Valk
 1721,Documental
-1721, (intervenciones de: Malya Roman
-1721,Julien Favreau
-1721,Elisabet Ros
-1721,Kateryna Shalkina
-1721,Óscar Chacón
-1721,Gil Roman
-1721,Kathleen Thielhem
-1721,Zubin Mehta)
 1722,Animación
 1723,Agathe Bonitzer
 1723,Manon Carpentier
@@ -13396,16 +13139,6 @@ id,actor
 1732,Jeanne McCarthy
 1732,David Roberson
 1733,Documental
-1733, (intervenciones de: Michael Jordan
-1733,Phil Jackson
-1733,Scottie Pippen
-1733,Dennis Rodman
-1733,Steve Kerr
-1733,Jerry Krause
-1733,Doug Collins
-1733,Magic Johnson
-1733,John Paxson
-1733,Larry Bird)
 1734,Michael J. Fox
 1734,James Hampton
 1734,Susan Ursitti
@@ -13427,7 +13160,6 @@ id,actor
 1735,Joseph Lyle Taylor
 1735,Bill Nunn
 1736,Documental
-1736, (intervenciones de: Vlade Divac)
 1737,Whoopi Goldberg
 1737,Frank Langella
 1737,Dennis Farina
@@ -13525,7 +13257,6 @@ id,actor
 1750,Reginald Veljohnson
 1750,Anne Meara
 1751,Documental
-1751, (intervenciones de: LeBron James)
 1752,André Holland
 1752,Kyle MacLachlan
 1752,Zazie Beetz
@@ -13537,8 +13268,6 @@ id,actor
 1752,Bill Duke
 1752,Sonja Sohn
 1753,Documental
-1753, (intervenciones de: Magic Johnson
-1753,Larry Bird)
 1754,Jay Chou
 1754,Charlene Choi
 1754,Wang Gang
@@ -13550,10 +13279,6 @@ id,actor
 1754,Jacky Wu
 1754,Wong Yat-Fei
 1755,Documental
-1755, (intervenciones de: Allen Iverson
-1755,Tom Brokaw
-1755,Larry Brown
-1755,Pat Croce)
 1756,Miguel A. Núñez Jr.
 1756,Vivica A. Fox
 1756,Kevin Pollak
@@ -13572,15 +13297,8 @@ id,actor
 1757,Angela Joseph
 1757,Josh Outzen
 1758,Documental
-1758, (intervenciones de: Reggie Miller
-1758,Cheryl Miller
-1758,Spike Lee
-1758,Patrick Ewing
-1758,Donnie Walsh)
 1759,Documental
-1759, (intervenciones de: Dennis Rodman)
 1760,Documental
-1760, (intervenciones de: Kobe Bryant)
 1761,Documental
 1762,Kyrie Irving
 1762,Tiffany Haddish
@@ -13603,17 +13321,7 @@ id,actor
 1763,Aleksander Ryapolov
 1763,James Tratas
 1764,Documental
-1764, (intervenciones de: Vince Carter
-1764,Drake
-1764,Tracy McGrady
-1764,Steve Nash
-1764,Director X.)
 1765,Documental
-1765, (intervenciones de: Michael Jordan
-1765,Phil Jackson
-1765,Terry Francona
-1765,David Falk
-1765,Ed Bradley)
 1766,Billy Crystal
 1766,Kathleen Quinlan
 1766,Gheorghe Muresan
@@ -13623,27 +13331,7 @@ id,actor
 1766,Lorna Luft
 1766,Harold Gould
 1767,Documental
-1767, (intervenciones de: Michael Jordan
-1767,Charles Barkley
-1767,Larry Bird
-1767,Clyde Drexler
-1767,Patrick Ewing
-1767,Magic Johnson
-1767,Mike Krzyzewski
-1767,Christian Laettner
-1767,Karl Malone
-1767,Chris Mullin)
 1768,Documental
-1768, (intervenciones de: Isaiah Thomas
-1768,Bill Laimbeer
-1768,Dennis Rodman
-1768,Joe Dumars
-1768,Rick Mahorn
-1768,John Salley
-1768,Adrian Dantley
-1768,Mark Aguirre
-1768,Jack McCloskey
-1768,Michael Jordan)
 1769,Don Cheadle
 1769,James Earl Jones
 1769,Michael Beach
@@ -13655,13 +13343,6 @@ id,actor
 1769,Monica Calhoun
 1769,Glynn Turman
 1770,Documental
-1770, (intervenciones de: Magic Johnson
-1770,Larry Bird
-1770,Pat Riley
-1770,Karl Malone
-1770,James Worthy
-1770,Chris Rock
-1770,Arsenio Hall)
 1771,Animación
 1772,Kevin Durant
 1772,Brandon T. Jackson
@@ -15539,16 +15220,6 @@ id,actor
 1985,Pat Woodell
 1985,Sid Haig
 1986,Documental
-1986, (intervenciones de: Jim Brown
-1986,Larry Cohen
-1986,Tamara Dobson
-1986,Ron Finley
-1986,Pam Grier
-1986,Ed Guerrero
-1986,Isaac Hayes
-1986,Gloria Hendry
-1986,bell hooks
-1986,Roy Innis)
 1987,Fred Williamson
 1987,Julius Harris
 1987,Gloria Hendry
@@ -16256,16 +15927,6 @@ id,actor
 2064,John Bedford Lloyd
 2064,Vanessa Ferlito
 2065,Documental
-2065, (intervenciones de: Gylfi Zoega
-2065,Andri Snær Magnasson
-2065,Sigridur Benediktsdottir
-2065,Paul Volcker
-2065,Dominique Strauss Kahn
-2065,George Soros
-2065,Barney Frank
-2065,Scott Talbott
-2065,Andrew Sheng
-2065,Hsien Loong Lee)
 2066,Tim Robbins
 2066,Jennifer Jason Leigh
 2066,Paul Newman
@@ -16345,7 +16006,6 @@ id,actor
 2074,Documental
 2074,Animación
 2075,Documental
-2075, (intervenciones de: Michael Moore)
 2076,Gad Elmaleh
 2076,Gabriel Byrne
 2076,Liya Kebede
@@ -16539,7 +16199,6 @@ id,actor
 2096,Jeanne Sorel
 2096,Edwin Maxwell
 2097,Documental
-2097, (intervenciones de: Donald Trump)
 2098,David Kross
 2098,Emily Goss
 2098,Frederick Lau
@@ -16890,11 +16549,6 @@ id,actor
 2144,Julian Works
 2144,Mark Elias
 2145,Documental
-2145, (intervenciones de: Philip Dickson
-2145,George Gravett
-2145,Fred Griffiths
-2145,Johnny Houghton
-2145,Loris Rey)
 2146,Roschdy Zem
 2146,Émilie Dequenne
 2146,Michael Abiteboul
@@ -17099,16 +16753,6 @@ id,actor
 2167,Phil Stevenson
 2167,Shaun O'Brien
 2168,Documental
-2168, (intervenciones de: Muhammad Ali
-2168,George Foreman
-2168,Don King
-2168,James Brown
-2168,B.B. King
-2168,Mobutu Sese Seko
-2168,Spike Lee
-2168,Norman Mailer
-2168,George Plimpton
-2168,Thomas Hauser)
 2169,Álex González
 2169,Miguel Ángel Silvestre
 2169,Judith Diakhate
@@ -19713,16 +19357,6 @@ id,actor
 2474,William Gregory Lee
 2475,Animación
 2476,Documental
-2476, (intervenciones de: Gerald Eichinger
-2476,Eva Hoffman
-2476,Manuel Heichinger
-2476,Tina Hoffman
-2476,Manfred Ellinger
-2476,Inge Ellinger
-2476,Marita Neeman
-2476,Volker Neeman
-2476,Eric Müller
-2476,Markoff Schmidt)
 2477,Choi Min-sik
 2477,Jeong Man-shik
 2477,Kim Sang-ho 
@@ -20166,9 +19800,7 @@ id,actor
 2532,Laura Donnelly
 2532,Edward Hogg
 2533,Documental
-2533, (intervenciones de: Lance Armstrong)
 2534,Documental
-2534, (intervenciones de: Alejandro Valverde)
 2535,Kevin Bacon
 2535,Jami Gertz
 2535,Laurence Fishburne
@@ -20215,7 +19847,6 @@ id,actor
 2539,Danny Glover
 2540,Documental
 2541,Documental
-2541, (intervenciones de: Lance Armstrong)
 2542,Kevin Costner
 2542,David Marshall Grant
 2542,Rae Dawn Chong
@@ -20235,13 +19866,7 @@ id,actor
 2546,"Moray Hunter
 "
 2547,Documental
-2547, (intervenciones de: Jean Bobet)
 2548,Documental
-2548, (intervenciones de: Lance Armstrong
-2548,Tyler Hamilton
-2548,George Hincapie
-2548,Bobby Julich
-2548,Floyd Landis)
 2549,Animación
 2550,Documental
 2551,Documental
@@ -20265,12 +19890,7 @@ id,actor
 2554,Jeroen Van der Ven
 2555,Documental
 2556,Documental
-2556, (intervenciones de: Felix Starck)
 2557,Documental
-2557, (intervenciones de: Alejandro Valverde
-2557,Alberto Contador
-2557,Miguel Induráin
-2557,Perico Delgado)
 2558,Moharram Zaynalzadeh
 2558,Esmail Soltanian
 2558,Mohammad Reza Maleki
@@ -20300,7 +19920,6 @@ id,actor
 2564,Documental
 2565,Documental
 2566,Documental
-2566, (intervenciones de: Oscar D'Aniello)
 2567,Bill Allen
 2567,Lori Loughlin
 2567,Talia Shire
@@ -20330,32 +19949,9 @@ id,actor
 2572,Nagore Aranburu
 2573,Documental
 2574,Documental
-2574, (intervenciones de: Jean-Paul Bouchier
-2574,Rita Cieters-Torrekens
-2574,Fernand Cieters-Torrekens
-2574,Christian Couston
-2574,Adeline Gonzales
-2574,Martin Duniau
-2574,Laurent Guidici
-2574,Anthony Montiel)
 2575,Documental
-2575, (intervenciones de: Dani Rovira
-2575,Clara Lago
-2575,Francisco Santiago
-2575,Marina Maldonado
-2575,Martina Santiago
-2575,Daniela Santiago
-2575,Germán Torres
-2575,Martin Giaccheta
-2575,Juanjo Gallego
-2575,Manuel Jerez)
 2576,Documental
 2577,Documental
-2577, (intervenciones de: Sergio Aznárez Rosado
-2577,Juan Manuel Aznárez Rosado
-2577,Mari Ros Rosado Martínez
-2577,Juan Manuel Aznárez Chacón
-2577,Matilde Molina)
 2578,Philippe Noiret
 2578,Marco Leonardi
 2578,Salvatore Cascio
@@ -20990,8 +20586,6 @@ id,actor
 2649,Blandine Jeanson
 2649,Eliane Giovagnoli
 2650,Documental
-2650, (intervenciones de: Florence Delay
-2650,Arielle Dombasle)
 2651,Maya Deren
 2651,Alexander Hammid
 2652,Animación
@@ -21043,8 +20637,6 @@ id,actor
 2659,Jan Klusák
 2659,Jirina Myskova
 2660,Documental
-2660, (intervenciones de: Ilse G. Ringier
-2660,Frank A. Lorang)
 2661,Brian Salzberg
 2661,Donna Dempsey
 2661,"Stephen Charles Barry
@@ -21807,15 +21399,6 @@ id,actor
 2768,Daniel G. Tomlinson
 2768,Dell Henderson
 2769,Documental
-2769, (intervenciones de: Elisabeth Christensen
-2769,Astrid Holm
-2769,Karen Winther
-2769,Maren Pedersen
-2769,Ella La Cour
-2769,Emmy Schönfeld
-2769,Kate Fabian
-2769,Oscar Stribolt
-2769,Benjamin Christensen)
 2770,François Clerc
 2770,Benoît Duval
 2771,Douglas Fairbanks
@@ -22109,16 +21692,6 @@ id,actor
 2805,Tony Isbert
 2805,Luis Cuenca
 2806,Documental
-2806, (intervenciones de: Ramsés Gallego
-2806,Mery Cuesta
-2806,Blondie
-2806,Ira Rap
-2806,Daniel Guzmán
-2806,Enrique San Francisco
-2806,José Sacristán
-2806,Rosario Flores
-2806,Paco Catalá
-2806,Agnès Varda)
 2807,José Sacristán
 2807,Tina Sáinz
 2807,Antonio Ferrandis
@@ -22499,16 +22072,6 @@ id,actor
 2854,Bela Lugosi
 2854,Ruth King
 2855,Documental
-2855, (intervenciones de: Anita Ekberg
-2855,Fanfulla
-2855,Riccardo Billi
-2855,Tino Scotti
-2855,Carlo Rizzo
-2855,Freddo Pistoni
-2855,Annie Fratellini
-2855,Gigi Reder
-2855,Charlie Rivel
-2855,Federico Fellini)
 2856,Jane Birkin
 2856,Sergio Castellitto
 2856,Julie-Marie Parmentier
@@ -22811,12 +22374,6 @@ id,actor
 2931,Kurt Russell
 2932,Animación
 2933,Documental
-2933, (intervenciones de: Ayrton Senna
-2933,Alain Prost
-2933,Nigel Mansell
-2933,Ron Dennis
-2933,Jean-Marie Balestre
-2933,Sid Watkins)
 2934,Tom Cruise
 2934,Nicole Kidman
 2934,Robert Duvall
@@ -22888,11 +22445,6 @@ id,actor
 2940,Brent Briscoe
 2940,Stacy Edwards
 2941,Documental
-2941, (intervenciones de: Jeremy Clarkson
-2941,Richard Hammond
-2941,James May
-2941,Ben Collins
-2941,Perry McCarthy)
 2942,Tony Curtis
 2942,Jack Lemmon
 2942,Natalie Wood
@@ -23072,7 +22624,6 @@ id,actor
 2963,Leslie Caron
 2963,Antonio Gil
 2964,Documental
-2964, (intervenciones de: Morgan Spurlock)
 2965,Javier Cámara
 2965,Lola Dueñas
 2965,Fernando Tejero
@@ -26928,103 +26479,17 @@ id,actor
 3402,Elliot Page
 3402,Lucas Till
 3403,Documental
-3403, (intervenciones de: Michael Jackson)
 3404,Documental
-3404, (intervenciones de: Janis Joplin
-3404,Jimi Hendrix
-3404,Joe Cocker
-3404,Joan Baez
-3404,David Crosby
-3404,Graham Nash
-3404,Stephen Stills
-3404,Richie Havens
-3404,John Sebastian
-3404,Sly Stone)
 3405,Documental
-3405, (intervenciones de: Bob Dylan
-3405,Van Morrison
-3405,Neil Young
-3405,Joni Mitchell
-3405,Neil Diamond
-3405,Eric Clapton
-3405,Paul Butterfield
-3405,Rick Danko
-3405,Dr. John
-3405,Lawrence Ferlinghetti)
 3406,Documental
-3406, (intervenciones de: David Bustamante
-3406,David Bisbal
-3406,Nuria Fergó
-3406,Chenoa
-3406,Manu Tenorio
-3406,Rosa López
-3406,Naim Thomas
-3406,Natalia Rodríguez
-3406,Àlex Casademunt
-3406,Juan Camus)
 3407,Documental
-3407, (intervenciones de: Michael Jackson
-3407,Joe Pesci
-3407,Brandon Quintin Adams
-3407,Sean Lennon
-3407,Kellie Parker
-3407,Cindera Che
-3407,Scott Benson
-3407,Patrick Alan Davis
-3407,Jeff Adkins
-3407,Brenda Barrett)
 3408,Documental
-3408, (intervenciones de: Mick Jagger
-3408,Keith Richards
-3408,Ronnie Wood
-3408,Charlie Watts
-3408,Martin Scorsese
-3408,Christina Aguilera
-3408,Jack White
-3408,Bill Clinton)
 3409,Documental
-3409, (intervenciones de: James Hetfield
-3409,Lars Ulrich
-3409,Kirk Hammett
-3409,Bob Rock
-3409,Eric Avery
-3409,Cliff Burnstein
-3409,Crazy Cabbie
-3409,Stefan Chirazi
-3409,Dylan Donkin
-3409,Erica Forstadt)
 3410,Documental
-3410, (intervenciones de: Freddie Mercury
-3410,Brian May
-3410,Roger Taylor
-3410,John Deacon)
 3411,Documental
-3411, (intervenciones de: Jon Thor Birgisson
-3411,Orri P. Dyrason
-3411,Georg Holm
-3411,Kjartan Sveinsson)
 3412,Documental
-3412, (intervenciones de: Justin Bieber
-3412,Usher
-3412,Miley Cyrus
-3412,Ludacris
-3412,Jaden Smith
-3412,Will Smith
-3412,Lionel Richie
-3412,David Beckham
-3412,Boyz II Men
-3412,Sean Kingston)
 3413,Documental
-3413, (intervenciones de: David Gilmour
-3413,Nick Mason
-3413,Roger Waters
-3413,Richard Wright)
 3414,Documental
-3414, (intervenciones de: Dane DeHaan
-3414,James Hetfield
-3414,Lars Ulrich
-3414,Kirk Hammett
-3414,Robert Trujillo)
 3415,Clive Owen
 3415,Tim Roth
 3415,Saul Rubinek
@@ -27036,262 +26501,42 @@ id,actor
 3415,Julian Wadham
 3415,Jeffrey Caine 
 3416,Documental
-3416, (intervenciones de: The Beatles
-3416,John Lennon
-3416,Paul McCartney
-3416,George Harrison
-3416,Ringo Starr
-3416,Yoko Ono
-3416,Linda McCartney)
 3417,Documental
-3417, (intervenciones de: Ernesto Acher
-3417,Carlos López Puccio
-3417,Jorge Maronna
-3417,Marcos Mundstock
-3417,Carlos Nuñez Cortés
-3417,Daniel Rabinovich)
 3418,Documental
-3418, (intervenciones de: Woody Allen
-3418,Soon-Yi Previn)
 3419,Documental
-3419,David Byrne
-3419,Chris Frantz
-3419,Tina Weymouth
 3420,Documental
-3420, (intervenciones de: John Bonham
-3420,John Paul Jones
-3420,Jimmy Page
-3420,Robert Plant
-3420,Derek Skilton
-3420,Richard Cole
-3420,Peter Grant
-3420,Colin Rigdon
-3420,Led Zeppelin)
 3421,Documental
-3421, (intervenciones de: Mick Jagger
-3421,Keith Richards
-3421,Ronnie Wood
-3421,Charlie Watts
-3421,Bill Wyman
-3421,Melvin Belli
-3421,Tina Turner
-3421,Ike Turner
-3421,Grace Slick
-3421,Paul Kantner)
 3422,Documental
-3422, (intervenciones de: Bob Dylan
-3422,Joan Baez
-3422,Alan Price
-3422,Albert Grossman
-3422,Bob Neuwirth)
 3423,Documental
-3423, (intervenciones de: David Bowie
-3423,Cindy Crawford
-3423,Christopher Guest
-3423,Kirk Hammett
-3423,James Hetfield
-3423,Elton John
-3423,Freddie Mercury
-3423,Liza Minnelli
-3423,Jason Newsted
-3423,Axl Rose)
 3424,Documental
-3424, (intervenciones de: Neil Young)
 3425,Documental
-3425, (intervenciones de: Aretha Franklin
-3425,Reverand James Cleveland
-3425,C.L. Franklin
-3425,Alexander Hamilton
-3425,Bernard Purdie
-3425,Chuck Rainey
-3425,Clara Ward
-3425,Mick Jagger
-3425,Sydney Pollack
-3425,Charlie Watts)
 3426,Documental
-3426, (intervenciones de: Carlos López Puccio
-3426,Daniel Rabinovich
-3426,Jorge Maronna
-3426,Carlos Nuñez Cortés
-3426,Marcos Mundstock)
 3427,Documental
-3427, (intervenciones de: Vinny Appice
-3427,Bruce Dickinson
-3427,Ronnie James Dio
-3427,Janick Gers
-3427,Steve Harris
-3427,Kerry King
-3427,Andreas Kisser
-3427,Nicko McBrain
-3427,Tom Morello
-3427,Dave Murray)
 3428,Documental
-3428, (intervenciones de: Neil Young)
 3429,Documental
-3429, (intervenciones de: Alfie Boe
-3429,Norm Lewis
-3429,Lea Salonga
-3429,Jenny Galloway
-3429,Matt Lucas
-3429,Samantha Barks
-3429,Nick Jonas
-3429,Ramin Karimloo
-3429,Katie Hall
-3429,Hadley Fraser)
 3430,Documental
-3430, (intervenciones de: Carlos López Puccio
-3430,Jorge Maronna
-3430,Marcos Mundstock
-3430,Carlos Nuñez Cortés
-3430,Daniel Rabinovich)
 3431,Documental
-3431, (intervenciones de: Metallica
-3431,James Hetfield
-3431,Lars Ulrich
-3431,Kirk Hammett
-3431,Jason Newsted
-3431,Michael Kamen)
 3432,Documental
-3432, (intervenciones de: Carlos López Puccio
-3432,Daniel Rabinovich
-3432,Jorge Maronna
-3432,Carlos Nuñez Cortés
-3432,Marcos Mundstock)
 3433,Documental
-3433, (intervenciones de: Kurt Cobain
-3433,Krist Novoselic
-3433,Dave Grohl
-3433,Lori Goldston
-3433,Pat Smear
-3433,Cris Kirkwood
-3433,Curt Kirkwood)
 3434,Documental
-3434, (intervenciones de: Ernesto Acher
-3434,Carlos López Puccio
-3434,Jorge Maronna
-3434,Marcos Mundstock
-3434,Carlos Nuñez Cortés
-3434,Daniel Rabinovich)
 3435,Documental
-3435, (intervenciones de: Roger Waters
-3435,Dave Kilminster
-3435,Snowy White
-3435,G.E. Smith
-3435,Jon Carin
-3435,Harry Waters
-3435,Graham Broad
-3435,Robbie Wycoff
-3435,Jon Joyce
-3435,Pat Lennon)
 3436,Documental
-3436, (intervenciones de: Bob Geldof
-3436,Bryan Adams
-3436,Stuart Adamson
-3436,Adam Ant
-3436,Nick Ashford
-3436,Joan Baez
-3436,Tom Bailey
-3436,Garry Beers
-3436,Black Sabbath
-3436,Bono)
 3437,Documental
-3437, (intervenciones de: Carlos López Puccio
-3437,Daniel Rabinovich
-3437,Jorge Maronna
-3437,Carlos Nuñez Cortés
-3437,Marcos Mundstock)
 3438,Documental
-3438, (intervenciones de: David Gilmour
-3438,Nick Mason
-3438,Richard Wright)
 3439,Documental
-3439, (intervenciones de: Carlos López Puccio
-3439,Jorge Maronna
-3439,Marcos Mundstock
-3439,Carlos Nuñez Cortés
-3439,Daniel Rabinovich)
 3440,Documental
-3440, (intervenciones de: Ramin Karimloo
-3440,Sierra Boggess
-3440,Hadley Fraser
-3440,Wendy Ferguson
-3440,Barry James
-3440,Gareth Snook
-3440,Liz Robertson
-3440,Wynne Evans
-3440,Daisy Maywood
-3440,Nick Holder)
 3441,Documental
-3441, (intervenciones de: Bono
-3441,The Edge
-3441,Larry Mullen Jr.
-3441,U2)
 3442,Documental
-3442, (intervenciones de: Bruce Dickinson
-3442,Steve Harris
-3442,Dave Murray
-3442,Adrian Smith
-3442,Janick Gers
-3442,Nicko McBrain)
 3443,Documental
-3443, (intervenciones de: Mick Jagger
-3443,John Lennon
-3443,Brian Jones
-3443,Keith Richards
-3443,Eric Clapton
-3443,Roger Daltrey
-3443,Pete Townshend
-3443,Keith Moon
-3443,Marianne Faithfull
-3443,Ian Anderson)
 3444,Documental
-3444, (intervenciones de: Mick Jagger
-3444,Keith Richards
-3444,Charlie Watts
-3444,Bill Wyman
-3444,Mick Taylor)
 3445,Documental
 3446,Documental
-3446, (intervenciones de: Carlos López Puccio
-3446,Jorge Maronna
-3446,Marcos Mundstock
-3446,Carlos Nuñez Cortés
-3446,Daniel Rabinovich)
 3447,Documental
 3448,Documental
-3448, (intervenciones de: Cliff Burton
-3448,Kirk Hammett
-3448,James Hetfield
-3448,Kirk Hammett
-3448,Dave Mustaine
-3448,Lars Ulrich)
 3449,Documental
-3449, (intervenciones de: Antonio Vega
-3449,Nacho García Vega
-3449,Nacha Pop
-3449,"Olvido Gara ""Alaska"""
-3449,Ariel Rot
-3449,Tequila
-3449,Jaime Urrutia
-3449,Álvaro Urquijo
-3449,Enrique Sierra
-3449,Johnny Cifuentes)
 3450,Documental
-3450, (intervenciones de: Carlos López Puccio
-3450,Jorge Maronna
-3450,Marcos Mundstock
-3450,Carlos Nuñez Cortés
-3450,Daniel Rabinovich)
 3451,Documental
-3451, (intervenciones de: Ernesto Acher
-3451,Carlos López Puccio
-3451,Jorge Maronna
-3451,Marcos Mundstock
-3451,Carlos Nuñez Cortés
-3451,Daniel Rabinovich)
 3452,Documental
-3452, (intervenciones de: Bruce Springsteen
-3452,Patti Scialfa)
 3453,Adam Sandler
 3453,John Turturro
 3453,Rob Schneider
@@ -27429,14 +26674,6 @@ id,actor
 3469,Ahmad Massad
 3469,Yoav Donat
 3470,Documental
-3470, (intervenciones de: Emad Burnat
-3470,Soraya Burnat
-3470,Mohammed Burnat
-3470,Yasin Burnat
-3470,Taky-Adin Burnat
-3470,Gibreel Burnat
-3470,Bassem Abu-Rahma
-3470,Adeeb Abu-Rahma)
 3471,Saïd Taghmaoui
 3471,JJ Feild
 3471,Patrick Bruel
@@ -27602,16 +26839,7 @@ id,actor
 3494,Ben Adam
 3495,Documental
 3496,Documental
-3496, (intervenciones de: Yasser Arafat
-3496,Ehud Barak
-3496,Benjamin Netanyahu
-3496,Shimon Peres
-3496,Oliver Stone
-3496,Hasan Yosef
-3496,Christian Jeuret
-3496,Christian Jeuret)
 3497,Documental
-3497, (intervenciones de: Jon Sistiaga)
 3498,Documental
 3499,Hiam Abbass
 3499,Freida Pinto
@@ -27907,13 +27135,6 @@ id,actor
 3542,Celia Freijeiro
 3542,Julia Castro
 3543,Documental
-3543, (intervenciones de: Aritz Aduriz
-3543,Santi Cazorla
-3543,Borja Iglesias
-3543,Paco López
-3543,Maheta Molango
-3543,Clemente Villaverde
-3543,Fernando Fariza)
 3544,Paco León
 3544,Leonor Watling
 3544,María León
@@ -27969,20 +27190,8 @@ id,actor
 3556,Jim O'Heir
 3557,Documental
 3558,Documental
-3558, (intervenciones de: Juan Cavestany
-3558,José Coronado
-3558,Luis Bermejo
-3558,Antonio de la Torre
-3558,Malena Alterio
-3558,Pepón Nieto
-3558,Álvaro Fernández Armero
-3558,Juan Mayorga
-3558,Manuel Bartual
-3558,Coque Malla)
 3559,Antonio Gómez
 3560,Documental
-3560, (intervenciones de: Pol Mallafré
-3560,Ángela Monge)
 3561,Documental
 3562,Blake Ridder
 3563,Andrey Berezin
@@ -28008,13 +27217,10 @@ id,actor
 3565,Gabriela Arancibia
 3566,Animación
 3567,Documental
-3567, (intervenciones de: Al-Hassan Ly)
 3568,Julian Jaramillo
 3568,Adrián Expósito
 3569,Animación
 3570,Documental
-3570, (intervenciones de: Willey Morrison
-3570,Cleo Morrison)
 3571,Nacho Vigalondo
 3571,Marta Belenguer
 3571,Alejandro Tejería
@@ -28738,7 +27944,6 @@ id,actor
 3734,Jordi Pérez
 3734,Rachel Lascar
 3735,Documental
-3735, (intervenciones de: Noam Chomsky)
 3736,Antonio Velázquez
 3736,Belén Cuesta
 3736,Kimberley Tell
@@ -28831,45 +28036,9 @@ id,actor
 3747,Tobi Bakare
 3747,Tom Bateman
 3748,Documental
-3748, (intervenciones de: Justin Bergh
-3748,Dave Castro
-3748,Katrin Tanja Davidsdottir
-3748,Brent Fikowski
-3748,Mat Fraser
-3748,Ricky Garard
-3748,Tommy Marquez
-3748,Sevan Matossian
-3748,Rory McKernan
-3748,Shane Orr)
 3749,Documental
-3749, (intervenciones de: Dan Bailey
-3749,Samantha Briggs
-3749,Dave Castro
-3749,Katrin Tanja Davidsdottir
-3749,Brooke Ence
-3749,Mat Fraser
-3749,Camille Leblanc-Bazinet
-3749,Tommy Marquez
-3749,Rory Mckernan
-3749,Noah Ohlsen)
 3750,Documental
-3750, (intervenciones de: Rich Froning
-3750,Dan Bailey
-3750,Dave Castro
-3750,Matt Fraser
-3750,Hillary Froning
-3750,James Hobart)
 3751,Documental
-3751, (intervenciones de: Justin Bergh
-3751,Josh Bridges
-3751,Samantha Briggs
-3751,Dave Castro
-3751,Katrin Tanja Davidsdottir
-3751,Brent Fikowski
-3751,Mat Fraser
-3751,Tommy Marquez
-3751,Rory McKernan
-3751,Pat Sherwood)
 3752,Animación
 3753,Animación
 3754,Animación
@@ -29737,10 +28906,6 @@ id,actor
 3868,Jessica Howell
 3868,Duchess Tomasello
 3869,Documental
-3869, (intervenciones de: Sean Michael
-3869,Andre Weideman
-3869,Candice D'Arcy
-3869,David Soul)
 3870,Morgan Freeman
 3870,Ashley Judd
 3870,Harry Connick Jr.
@@ -29772,7 +28937,6 @@ id,actor
 3872,John Dehner
 3873,Animación
 3874,Documental
-3874, (intervenciones de: Natalie Portman)
 3875,Documental
 3876,Caitlin Wachs
 3876,George Harris
@@ -29795,9 +28959,6 @@ id,actor
 3878,Gregg Hood
 3878,Carter Collins
 3879,Documental
-3879, (intervenciones de: Stephen Fry
-3879,Doug Allen
-3879,Didier Noirot)
 3880,Animación
 3881,Mickey Rourke
 3881,Marisa Tomei
@@ -30068,10 +29229,6 @@ id,actor
 3911,Chris Ellis
 3911,Priah Ferguson
 3912,Documental
-3912, (intervenciones de: Lady Gaga
-3912,Tony Bennett
-3912,Katie Couric
-3912,Art Smith)
 3913,Steve Hawkes
 3913,Dana Cullivan
 3913,Heather Hughes
@@ -30330,7 +29487,6 @@ id,actor
 3950,Ludovico Di Santo
 3950,Osvaldo Santoro
 3951,Documental
-3951, (intervenciones de: Estela de Carlotto)
 3952,Conrado Valenzuela
 3952,Norma Aleandro
 3952,Fabio Aste
@@ -30342,11 +29498,6 @@ id,actor
 3952,Marcelo Melingo
 3952,Lautaro Puccia Sagardoy
 3953,Documental
-3953, (intervenciones de: Esteban Buch
-3953,Miguel Angel D'Agostino
-3953,Débora Herman
-3953,Horacio Herman
-3953,Juan Herman)
 3954,Eleonora Wexler
 3954,Federico Olivera
 3954,Alfredo Allende
@@ -30412,13 +29563,7 @@ id,actor
 3962,Julieta Cardinali
 3962,César Albarracín
 3963,Documental
-3963, (intervenciones de: Esteban Lamothe
-3963,Analía Couceyro)
 3964,Documental
-3964, (intervenciones de: Laura Bonaparte
-3964,Camilo Bruschtein
-3964,Luis Bruschtein
-3964,Natalia Bruschtein)
 3965,Jack Lemmon
 3965,Sissy Spacek
 3965,Melanie Mayron
@@ -30459,14 +29604,7 @@ id,actor
 3968,August Zirner
 3968,Jeanne Werner
 3969,Documental
-3969, (intervenciones de: Gaspar Galaz
-3969,Lautaro Núñez de Arco
-3969,Luís Henríquez
-3969,Miguel Lawner
-3969,Victor González)
 3970,Documental
-3970, (intervenciones de: Salvador Allende
-3970,Abilio Fernández)
 3971,Erto Pantoja
 3971,Nicolás Saavedra
 3971,Felipe Braun
@@ -30474,20 +29612,7 @@ id,actor
 3971,Jorge Román
 3971,Victor Montero
 3972,Documental
-3972, (intervenciones de: Salvador Allende
-3972,Carlos Altamirano
-3972,Fernando Castillo)
 3973,Documental
-3973, (intervenciones de: Salvador Allende
-3973,Patricio Guzmán
-3973,Jacques Bidou
-3973,Alejandro Gonzáles
-3973,Ema Malig
-3973,Sergio Vuskovic
-3973,Isabel Allende Bussi
-3973,Ernesto Salamanca
-3973,Carmen Paz
-3973,Claudina Nuñez)
 3974,Antonio Banderas
 3974,Jennifer Connelly
 3974,Stefania Sandrelli
@@ -30496,11 +29621,6 @@ id,actor
 3974,Patricio Contreras
 3975,Documental
 3976,Documental
-3976, (intervenciones de: Martín Calderón
-3976,Ema Malig
-3976,Gabriela Paterito
-3976,Gabriel Salazar Vergara
-3976,Raúl Zurita)
 3977,Alfredo Castro
 3977,Paola Lattus
 3977,Héctor Morales
@@ -30565,7 +29685,6 @@ id,actor
 3987,Daniel Alcaíno
 3987,Sergio Hernández
 3988,Documental
-3988, (intervenciones de: Nanni Moretti)
 3989,Daniel Muñoz
 3989,Tamara Acosta
 3989,Loreto Aravena
@@ -30574,10 +29693,6 @@ id,actor
 3989,Katty Kowaleczko
 3989,Daniel Alcaíno
 3990,Documental
-3990, (intervenciones de: Arnold Harberger
-3990,Sergio De Castro
-3990,Ernesto Fontaine
-3990,Ricardo Ffrench-Davis)
 3991,Michael Nyqvist
 3991,Lumi Cavazos
 3991,Kate del Castillo
@@ -30612,10 +29727,6 @@ id,actor
 3994,Marcelo Alonso
 3994,Pedro Fontaine
 3995,Documental
-3995, (intervenciones de: Isabel Allende
-3995,Carmen Paz Allende
-3995,Maya de Isabel Allende
-3995,Alejandro Fernández Allende)
 3996,Documental
 3997,Documental
 3998,Daniela Ramírez
@@ -30636,8 +29747,6 @@ id,actor
 4000,André Dussollier
 4000,Serge Marquand
 4001,Documental
-4001, (intervenciones de: Adriana Rivas
-4001,Lissette Orozco)
 4002,Documental
 4003,Françoise Arnoul
 4003,Daniel Gélin
@@ -31466,11 +30575,6 @@ id,actor
 4112,Leslie Nielsen
 4112,Ridge Canipe
 4113,Documental
-4113, (intervenciones de: Fini Straubinger
-4113,Elsa Fehrer
-4113,Heinrich Fleischmann
-4113,Vladimir Kokol
-4113,Resi Mittermeier)
 4114,Vanessa Marano
 4114,Katie Leclerc
 4114,Sean Berdy
@@ -31569,14 +30673,6 @@ id,actor
 4128,Larissa Kouznetsova
 4128,Leonie Spilsbury
 4129,Documental
-4129, (intervenciones de: Paul Rhys
-4129,Charles Hazlewood
-4129,David Bamber
-4129,Casper Harvey
-4129,Sarah Hadland
-4129,Christian Coulson
-4129,Bertie Carvel
-4129,Jonathan Slinger)
 4130,Animación
 4131,Oleksand Fomichov
 4131,Sergiy Gavryluk
@@ -32223,15 +31319,6 @@ id,actor
 4210,Mark Heenehan
 4210,Dave Thompson
 4211,Documental
-4211, (intervenciones de: Paul Zaloom
-4211,Mark Ritts
-4211,Eliza Schneider
-4211,Alanna Ubach
-4211,Senta Moses
-4211,Jean Stapleton
-4211,Evan King
-4211,Alan Barzman
-4211,Bert Berdis)
 4212,Animación
 4213,Animación
 4214,Animación
@@ -32259,7 +31346,6 @@ id,actor
 4225,Animación
 4226,Animación
 4227,Documental
-4227, (intervenciones de: Jean Taris)
 4228,Animación
 4229,Animación
 4230,Animación
@@ -32275,7 +31361,6 @@ id,actor
 4235,Animación
 4236,Animación
 4237,Documental
-4237, (intervenciones de: Jordi Cruz)
 4238,Konstantin Graudus
 4238,Gustav Adolph Artz
 4238,Jürgen Kittel
@@ -32583,16 +31668,6 @@ id,actor
 4283,Geoffrey Toone
 4283,Michael Coles
 4284,Documental
-4284, (intervenciones de: Russell T. Davies
-4284,Steven Moffat
-4284,Phil Collinson
-4284,Julie Gardner
-4284,David Tennant
-4284,Matt Smith
-4284,Christopher Eccleston
-4284,Billie Piper
-4284,Karen Gillan
-4284,Arthur Darvill)
 4285,William Hartnell
 4285,William Russell
 4285,Carole Ann Ford
@@ -32626,16 +31701,6 @@ id,actor
 4288,Jim Broadbent
 4288,Richard E. Grant
 4289,Documental
-4289, (intervenciones de: Peter Davison
-4289,Colin Baker
-4289,Sylvester McCoy
-4289,Steven Moffat
-4289,John Barrowman
-4289,David Tennant
-4289,Paul McGann
-4289,Russell T. Davies
-4289,Olivia Colman
-4289,Sean Pertwee)
 4290,Jodie Whittaker
 4290,Bradley Walsh
 4290,Tosin Cole
@@ -32704,264 +31769,87 @@ id,actor
 4299,Nigel Betts
 4299,Pooja Shah
 4300,Documental
-4300, (intervenciones de: Carl Sagan)
 4301,Documental
-4301, (intervenciones de: Neil deGrasse Tyson
-4301,Seth MacFarlane)
 4302,Documental
 4303,Documental
-4303, (intervenciones de: David Attenborough)
 4304,Documental
-4304, (intervenciones de: Jamie Hyneman
-4304,Adam Savage
-4304,Tory Belleci
-4304,Kari Byron
-4304,Grant Imahara)
 4305,Documental
-4305, (intervenciones de: Werner Herzog
-4305,Clive Oppenheimer
-4305,Tim D. White
-4305,Adam Bobette
-4305,Yun Yong Gun
-4305,James Hammond
-4305,Kampiro Kayrento
-4305,Mael Moses
-4305,Han Myong II
-4305,Yonatan Sahle)
 4306,Documental
 4307,Documental
-4307, (intervenciones de: Brian Cox)
 4308,Documental
-4308, (intervenciones de: Martin Aleksa
-4308,Nima Arkani-Hamed
-4308,Savas Dimopoulos
-4308,Monica Dunford
-4308,Fabiola Gianotti
-4308,David Kaplan
-4308,Mike Lamont)
 4309,Documental
-4309, (intervenciones de: Morgan Freeman)
 4310,Documental
-4310, (intervenciones de: Brian Cox)
 4311,Documental
 4312,Documental
-4312, (intervenciones de: Neil deGrasse Tyson
-4312,Neil Arnote
-4312,Alexander Alayon
-4312,Hélène Cardona
-4312,Leandro Guedes
-4312,Marcello Guedes
-4312,Rick Pasqualone
-4312,J. Nathan Simmons)
 4313,Documental
-4313, (intervenciones de: Will Smith
-4313,Chris Hadfield
-4313,Mae C. Jemison
-4313,Leland Melvin)
 4314,Documental
-4314, (intervenciones de: Cate Blanchett)
 4315,Documental
 4316,Documental
-4316, (intervenciones de: Alec Baldwin
-4316,Sean Pertwee)
 4317,Documental
-4317, (intervenciones de: Stephen Hawking
-4317,Benedict Cumberbatch
-4317,Christopher Goh
-4317,Melissa Ricci)
 4318,Documental
 4319,Documental
-4319, (intervenciones de: Mike Rowe)
 4320,
 4321,Documental
-4321, (intervenciones de: Stephen Emmott)
 4322,Documental
-4322, (intervenciones de: Matthew McConaughey)
 4323,Documental
-4323, (intervenciones de: Stephen Hawking)
 4324,Documental
-4324, (intervenciones de: David Attenborough)
 4325,Documental
-4325, (intervenciones de: Simon Poland
-4325,David Attenborough)
 4326,Documental
 4327,Documental
-4327, (intervenciones de: David Attenborough)
 4328,Documental
-4328, (intervenciones de: Stephen Hawking)
 4329,Documental
-4329, (intervenciones de: Richard Dawkins)
 4330,Documental
 4331,Documental
-4331, (intervenciones de: Paul Beaver
-4331,Janos Tisovszky
-4331,Niklas Hedman
-4331,Sheryl Bishop
-4331,Mazlan Othman
-4331,John Bummel
-4331,Christopher Mac Kay
-4331,Doug Vakoch)
 4332,Documental
-4332, (intervenciones de: Syra Madad)
 4333,Documental
-4333, (intervenciones de: David Attenborough)
 4334,Documental
 4335,Documental
 4336,Documental
-4336, (intervenciones de: Janna Levin)
 4337,Documental
 4338,Documental
-4338, (intervenciones de: Lisa Kaltenegger
-4338,Malcolm McDowell)
 4339,Documental
 4340,Documental
 4341,Documental
-4341, (intervenciones de: Brian Cox)
 4342,Documental
-4342, (intervenciones de: Iain Stewart)
 4343,Documental
-4343, (intervenciones de: Marcus Du Sautoy)
 4344,Documental
 4345,Documental
-4345, (intervenciones de: Georgeos Díaz-Montexano
-4345,Peter Ellul Vincenti
-4345,Richard Freund
-4345,Robert Ishoy
-4345,Simcha Jacobovici
-4345,Charles Pellegrino
-4345,Félix Rodrigues
-4345,James Cameron)
 4346,Documental
-4346, (intervenciones de: Michael Robinson)
 4347,Documental
 4348,Documental
-4348, (intervenciones de: Bryan Fogel
-4348,Grigory Rodchenkov)
 4349,Documental
-4349, (intervenciones de: Lionel Messi
-4349,Johan Cruyff
-4349,César Luis Menotti
-4349,Diego Armando Maradona
-4349,Alejandro Sabella
-4349,Andrés Iniesta
-4349,Gerard Piqué
-4349,Javier Mascherano
-4349,José Manuel Pinto
-4349,Jorge Valdano)
 4350,Documental
-4350, (intervenciones de: Michael Robinson)
 4351,Documental
-4351, (intervenciones de: Diego Armando Maradona
-4351,Pelé
-4351,Dalma Maradona
-4351,Claudia Villafañe
-4351,Ciro Ferrara
-4351,Maria Rosa Maradona
-4351,Corrado Ferlaino
-4351,Diego Maradona Jr
-4351,Italo Cucci
-4351,Gianni Minà)
 4352,Documental
-4352, (intervenciones de: O.J. Simpson)
 4353,Documental
-4353, (intervenciones de: Diego Armando Maradona
-4353,Emir Kusturica)
 4354,Documental
-4354, (intervenciones de: Pablo Escobar)
 4355,Documental
-4355, (intervenciones de: Arnold Schwarzenegger
-4355,Lou Ferrigno
-4355,Franco Columbu
-4355,Ken Waller
-4355,Mike Katz)
 4356,Documental
-4356, (intervenciones de: Javier Albalá
-4356,David Beckham
-4356,Zinedine Zidane
-4356,Jessica Bohl
-4356,Raúl Bravo
-4356,Roberto Carlos
-4356,Iker Casillas
-4356,Alfredo di Stefano
-4356,Luis Figo)
 4357,Documental
-4357, (intervenciones de: Quique Cárcel
-4357,Amaia Gorostiza
-4357,Andrés Guardado
-4357,Cristiano Ronaldo
-4357,Lionel Messi
-4357,Pablo Machín
-4357,Quique Setién
-4357,Iñaki Williams
-4357,Saúl Ñíguez
-4357,José Luis Mendilibar)
 4358,Documental
-4358, (intervenciones de: Xavi Hernández
-4358,Josep Guardiola
-4358,Lionel Messi
-4358,Carles Puyol
-4358,Andrés Iniesta
-4358,Gerard Piqué
-4358,Eric Abidal
-4358,Daniel Alves
-4358,Albert Benaiges
-4358,Sergio Busquets)
 4359,Documental
 4360,Documental
-4360, (intervenciones de: Roger Federer
-4360,Rafa Nadal)
 4361,Documental
-4361, (intervenciones de: Cristiano Ronaldo)
 4362,Documental
-4362, (intervenciones de: Muhammad Ali
-4362,Joe Frazier)
 4363,Documental
-4363, (intervenciones de: Mike Tyson)
 4364,Documental
-4364, (intervenciones de: Josep Guardiola)
 4365,Documental
-4365, (intervenciones de: George Chuvalo
-4365,Henry Cooper
-4365,George Foreman
-4365,Joe Frazier)
 4366,Documental
-4366, (intervenciones de: Fernando Torres
-4366,Andrés Iniesta
-4366,Jose Mourinho)
 4367,Documental
-4367, (intervenciones de: Nicolas Anelka
-4367,Franck Nataf)
 4368,Documental
-4368, (intervenciones de: Fernando Alonso
-4368,Carlos Sainz)
 4369,Documental
-4369, (intervenciones de: Michael Robinson)
 4370,Documental
-4370, (intervenciones de: Diego Armando Maradona)
 4371,Documental
 4372,Documental
-4372, (intervenciones de: Luis Aragonés)
 4373,Documental
-4373, (intervenciones de: Alfredo di Stefano
-4373,Ignacio Eizaguirre
-4373,Antonio Puchades
-4373,Antonio Ramallets
-4373,Luis Suárez)
 4374,Documental
 4375,Documental
-4375, (intervenciones de: Jacques Perrin
-4375,Lancelot Perrin)
 4376,Documental
 4377,Documental
-4377, (intervenciones de: Craig Foster)
 4378,Documental
-4378, (intervenciones de: Jacques-Yves Cousteau
-4378,Rod Serling)
 4379,Documental
 4380,Documental
-4380, (intervenciones de: David Attenborough)
 4381,Documental
-4381, (intervenciones de: David Attenborough)
 4382,Documental
 4383,Documental
 4384,Documental
@@ -32972,44 +31860,23 @@ id,actor
 4389,Documental
 4390,Documental
 4391,Documental
-4391, (intervenciones de: Tilda Swinton)
 4392,Documental
-4392, (intervenciones de: Jean-Michel Cousteau)
 4393,Documental
-4393, (intervenciones de: Sylvia Earle
-4393,James Cameron
-4393,Michael deGruy
-4393,Bryce Groark
-4393,Fisher Stevens
-4393,Liz Taylor)
 4394,Documental
 4395,Documental
-4395, (intervenciones de: Arnold Schwarzenegger
-4395,Jean-Michel Cousteau
-4395,Fabien Cousteau
-4395,Celine Cousteau)
 4396,Documental
-4396, (intervenciones de: Guido Notari)
 4397,Documental
-4397, (intervenciones de: Rob Stewart)
 4398,Documental
 4399,Documental
-4399, (intervenciones de: Frank Lotito
-4399,Lachlan Woods
-4399,Paul Henri
-4399,James Cameron
-4399,Suzy Amis)
 4400,Documental
 4401,Documental
 4402,Documental
-4402, (intervenciones de: Cillian Murphy)
 4403,Documental
 4404,Documental
 4405,Documental
 4406,Documental
 4407,Documental
 4408,Documental
-4408, (intervenciones de: Guillaume Néry)
 4409,Documental
 4410,Documental
 4411,Documental
@@ -33017,453 +31884,72 @@ id,actor
 4413,Documental
 4414,Documental
 4415,Documental
-4415, (intervenciones de: David Attenborough)
 4416,Documental
 4417,Documental
-4417, (intervenciones de: Jim Carrey
-4417,Milos Forman)
 4418,Documental
-4418, (intervenciones de: Francis Ford Coppola
-4418,John Milius
-4418,Martin Sheen
-4418,Sam Bottoms
-4418,Marlon Brando
-4418,Eleanor Coppola
-4418,Roman Coppola
-4418,Sofia Coppola
-4418,Robert De Niro
-4418,Robert Duvall)
 4419,Documental
-4419, (intervenciones de: Terry Gilliam
-4419,Jean Rochefort
-4419,Johnny Depp
-4419,Vanessa Paradis)
 4420,Documental
-4420, (intervenciones de: Aleksandr Sokúrov
-4420,Norman Lloyd
-4420,Lars von Trier
-4420,Paul Schrader
-4420,Haskell Wexler
-4420,Yuen Woo-Ping
-4420,Samira Makhmalbaf
-4420,Robert Towne
-4420,Mani Kaul
-4420,Stanley Donen)
 4421,Documental
-4421, (intervenciones de: Tom Cruise
-4421,Woody Allen
-4421,Stanley Kubrick
-4421,Shelley Duvall
-4421,Nicole Kidman
-4421,Malcolm McDowell
-4421,Jack Nicholson
-4421,Alan Parker
-4421,Matthew Modine
-4421,Sydney Pollack)
 4422,Documental
-4422, (intervenciones de: Lars von Trier
-4422,Jorgen Leth
-4422,Claus Nissen
-4422,Jacqueline Arenal
-4422,Daniel Hernández Rodriguez
-4422,Patrick Bauchau
-4422,Alexandra Vandernoot)
 4423,Documental
-4423, (intervenciones de: Alejandro Jodorowsky
-4423,Nicolas Winding Refn
-4423,H.R. Giger
-4423,Richard Stanley 
-4423,Gary Kurtz
-4423,Brontis Jodorowsky
-4423,Devin Faraci
-4423,Drew McWeeny
-4423,Michel Seydoux
-4423,Chris Foss)
 4424,Documental
-4424, (intervenciones de: Eugenio Alabiso
-4424,David Alba Romero
-4424,Joseba del Valle
-4424,Ennio Morricone
-4424,Clint Eastwood
-4424,Christopher Frayling
-4424,Carlo Leva
-4424,Sergio García Hernández
-4424,Peter J. Hanley
-4424,James Hetfield)
 4425,Documental
-4425, (intervenciones de: David Fincher
-4425,Martin Scorsese
-4425,Wes Anderson
-4425,Richard Linklater
-4425,Alfred Hitchcock
-4425,François Truffaut
-4425,James Gray
-4425,Olivier Assayas
-4425,Kiyoshi Kurosawa
-4425,Peter Bogdanovich)
 4426,Documental
-4426, (intervenciones de: Fernando Fernán Gómez)
 4427,Documental
-4427, (intervenciones de: Klaus Kinski
-4427,Claudia Cardinale
-4427,Werner Herzog
-4427,Eva Mattes
-4427,Beat Presser)
 4428,Documental
-4428, (intervenciones de: Peter Jackson
-4428,Thomas Robins
-4428,Sam Neill
-4428,Leonard Maltin
-4428,Harvey Weinstein)
 4429,Documental
-4429, (intervenciones de: John Cazale
-4429,Al Pacino
-4429,Meryl Streep
-4429,Francis Ford Coppola
-4429,Robert De Niro
-4429,Sidney Lumet
-4429,Richard Dreyfuss
-4429,Steve Buscemi
-4429,Philip Seymour Hoffman
-4429,Gene Hackman)
 4430,Documental
-4430, (intervenciones de: Bill Blakemore
-4430,Geoffrey Cocks
-4430,Juli Kearns
-4430,John Fell Ryan
-4430,Jay Weidner
-4430,Stephen Brophy
-4430,Ash Brophy
-4430,Buddy Black
-4430,Buffy Visick
-4430,Sam Walton)
 4431,Documental
-4431, (intervenciones de: Slavoj Žižek)
 4432,Documental
-4432, (intervenciones de: Robert Evans)
 4433,Documental
-4433, (intervenciones de: Woody Allen
-4433,Letty Aronson
-4433,Antonio Banderas
-4433,Marshall Brickman
-4433,Josh Brolin
-4433,Dick Cavett
-4433,Penélope Cruz
-4433,John Cusack
-4433,Larry David
-4433,Seth Green)
 4434,Documental
-4434, (intervenciones de: John Waters
-4434,Larry Flynt
-4434,Erica Jong
-4434,Ruth Westheimer
-4434,Dick Cavett
-4434,Camille Paglia
-4434,Linda Lovelace
-4434,Harry Reems
-4434,Hugh M. Hefner
-4434,Bill Maher)
 4435,Documental
-4435, (intervenciones de: Lilly Wachowski
-4435,Lana Wachowski
-4435,Lorenzo di Bonaventura
-4435,Joel Silver
-4435,Keanu Reeves
-4435,Laurence Fishburne
-4435,Carrie-Anne Moss
-4435,Hugo Weaving)
 4436,Documental
-4436, (intervenciones de: Steven Spielberg
-4436,Leonardo DiCaprio
-4436,Christian Bale
-4436,Tom Hanks
-4436,Liam Neeson
-4436,Harrison Ford
-4436,Cate Blanchett
-4436,J.J. Abrams
-4436,Daniel Craig
-4436,Daniel Day-Lewis)
 4437,Documental
-4437, (intervenciones de: Tim Allen
-4437,Brad Bird
-4437,Loren Carpenter
-4437,Randy Cartwright
-4437,Ed Catmull
-4437,Diane Disney
-4437,Roy Edward Disney
-4437,Michael Eisner
-4437,Tom Hanks
-4437,Bob Iger)
 4438,Documental
-4438, (intervenciones de: Slavoj Žižek)
 4439,Documental
-4439, (intervenciones de: Roman Polanski
-4439,Mia Farrow
-4439,Samantha Geimer
-4439,Sharon Tate)
 4440,Documental
-4440, (intervenciones de: Martin Scorsese
-4440,Frank Capra
-4440,John Cassavetes
-4440,Philippe Collin
-4440,Francis Ford Coppola
-4440,Brian De Palma
-4440,Clint Eastwood
-4440,André De Toth
-4440,John Ford
-4440,Samuel Fuller)
 4441,Documental
-4441, (intervenciones de: Molly Ringwald
-4441,Tobe Hooper
-4441,Dolph Lundgren
-4441,Richard Chamberlain
-4441,Elliott Gould
-4441,Robert Forster
-4441,Just Jaeckin
-4441,John G. Avildsen
-4441,Franco Nero
-4441,Bo Derek)
 4442,Documental
-4442, (intervenciones de: George Lucas
-4442,Mark Hamill
-4442,Harrison Ford
-4442,Carrie Fisher
-4442,Irvin Kershner
-4442,Dennis Muren
-4442,Lawrence Kasdan
-4442,Steven Spielberg
-4442,John Williams
-4442,Ralph McQuarrie)
 4443,Documental
-4443, (intervenciones de: David Prowse
-4443,Lou Ferrigno
-4443,Kenny Baker
-4443,Jeremy Bulloch
-4443,Gary Kurtz
-4443,Robert Watts
-4443,Manuel M. Velasco
-4443,Marcos Cabotá
-4443,Jonathan Rigby
-4443,Marcus Hearn)
 4444,Documental
-4444, (intervenciones de: Lily Tomlin
-4444,Tony Curtis
-4444,Whoopi Goldberg
-4444,Harvey Fierstein
-4444,Gore Vidal
-4444,Farley Granger
-4444,Paul Rudnick
-4444,Shirley MacLaine
-4444,Antonio Fargas
-4444,Tom Hanks)
 4445,Documental
-4445, (intervenciones de: Alex Saracco
-4445,Stephen Saracco
-4445,Alberto Ammann
-4445,Ben Cotton
-4445,Jihae
-4445,Anamaria Marinca
-4445,Olivier Martínez
-4445,Clémentine Poidatz
-4445,Sammi Rotibi
-4445,Cosima Shaw)
 4446,Documental
-4446, (intervenciones de: Sonia Ramírez
-4446,Rubén Barbosa
-4446,Juan Carlos Alves
-4446,Juan Ochoa
-4446,Miguel Ángel Jenner
-4446,Michelle Jenner
-4446,David Carrillo
-4446,Juan Perucho
-4446,Luisa Ezquerra
-4446,José Luis Gil)
 4447,Documental
-4447, (intervenciones de: Thierry Fremaux
-4447,Auguste Lumière
-4447,Louis Lumière
-4447,Martin Scorsese)
 4448,Documental
-4448, (intervenciones de: Jamie Lee Curtis
-4448,Elijah Wood
-4448,Guillermo del Toro
-4448,Danny Elfman
-4448,Peter Bogdanovich
-4448,Leigh Whannell
-4448,Oz Perkins
-4448,Neil Marshall
-4448,Karyn Kusama
-4448,Bret Easton Ellis)
 4449,Documental
-4449, (intervenciones de: Javier Aguirre
-4449,Simón Andreu
-4449,Paco Cabezas
-4449,Carmen Carrión
-4449,Álex de la Iglesia
-4449,Álvaro de Luna
-4449,Carlo De Marchis
-4449,Lone Fleming
-4449,Adrián García Bogliano
-4449,Jorge Grau)
 4450,Documental
-4450, (intervenciones de: Keanu Reeves
-4450,James Cameron
-4450,David Fincher
-4450,David Lynch
-4450,Robert Rodriguez
-4450,Martin Scorsese
-4450,Steven Soderbergh
-4450,Christopher Nolan
-4450,George Lucas
-4450,Danny Boyle)
 4451,Documental
-4451, (intervenciones de: Alfie Allen
-4451,Jacob Anderson
-4451,David Benioff
-4451,Gwendoline Christie
-4451,Emilia Clarke
-4451,Nikolaj Coster-Waldau
-4451,Liam Cunningham
-4451,Peter Dinklage
-4451,Nathalie Emmanuel
-4451,Vladimir 'Furdo' Furdik)
 4452,Documental
-4452, (intervenciones de: Salvador Aldeguer
-4452,Salvador Arias
-4452,Lorenzo Beteta
-4452,Jordi Brau
-4452,Héctor Cantolla
-4452,Luis Carrillo
-4452,José Antonio Ceinos
-4452,Dolores Cervantes
-4452,Matilde Conesa
-4452,Arsenio Corsellas)
 4453,Documental
-4453, (intervenciones de: Robert Forster
-4453,Samuel L. Jackson
-4453,Jennifer Jason Leigh
-4453,Diane Kruger
-4453,Lucy Liu
-4453,Kurt Russell
-4453,Christoph Waltz
-4453,Jamie Foxx
-4453,Tim Roth
-4453,Eli Roth)
 4454,Documental
-4454, (Voz: Marlon Brando)
 4455,Documental
-4455, (intervenciones de: Martin Scorsese
-4455,Paul Schrader
-4455,Peter Boyle
-4455,Robert De Niro
-4455,Cybill Shepherd
-4455,Albert Brooks
-4455,Harvey Keitel
-4455,Jodie Foster
-4455,Michael Chapman
-4455,Dick Smith)
 4456,Documental
-4456, (intervenciones de: David Lynch)
 4457,Documental
-4457, (intervenciones de: Nicholas Ray
-4457,Wim Wenders
-4457,Susan Ray
-4457,Tim Ray
-4457,Ronee Blakley
-4457,Gerry Bamman)
 4458,Documental
-4458, (intervenciones de: Jean-Luc Godard
-4458,Jean-Pierre Gos
-4458,Alain Cuny
-4458,Juliette Binoche
-4458,Sabine Azéma
-4458,Serge Daney
-4458,Julie Delpy)
 4459,Documental
-4459, (intervenciones de: Jafar Panahi
-4459,Mojtaba Mirtahmasb)
 4460,Documental
-4460, (intervenciones de: Chishu Ryu
-4460,Werner Herzog
-4460,Yuuharu Atsuta
-4460,Chris Marker)
 4461,Documental
-4461, (intervenciones de: Yatoya Toy
-4461,Siegfried Peters)
 4462,Documental
 4463,Documental
 4464,Documental
-4464, (intervenciones de: Bruce Lee
-4464,Kareem Abdul-Jabbar
-4464,Linda Lee Cadwell
-4464,Jackie Chan
-4464,James Garner
-4464,Sammo Hung
-4464,Dan Inosanto
-4464,George Lazenby
-4464,Mako
-4464,Chuck Norris)
 4465,Documental
-4465, (intervenciones de: Jack Nicholson
-4465,Stanley Kubrick
-4465,Danny Lloyd
-4465,Scatman Crothers
-4465,Shelley Duvall
-4465,Gert Kubrick
-4465,Brian W. Cook)
 4466,Documental
-4466, (intervenciones de: James Gandolfini
-4466,David Chase
-4466,Edie Falco
-4466,Tony Sirico
-4466,Michael Gandolfini
-4466,Timothy Van Patten
-4466,Michael Imperioli
-4466,Julia Louis-Dreyfus
-4466,Steve Van Zandt
-4466,Steve Schirripa)
 4467,Documental
-4467, (intervenciones de: Mathieu Kassovitz)
 4468,Documental
 4469,Documental
 4470,Documental
 4471,Documental
-4471, (intervenciones de: Simon Srebnik
-4471,Michael Podchlebnik
-4471,Motke Zaïdl
-4471,Hanna Zaïdl)
 4472,Documental
 4473,Documental
-4473, (intervenciones de: Mathieu Kassovitz)
 4474,Documental
 4475,Documental
 4476,Documental
-4476, (intervenciones de: Adi Rukun
-4476,M.Y. Basrun
-4476,Amir Hasan
-4476,Inong Kemat
-4476,Joshua Oppenheimer
-4476,Amir Siahaan
-4476,Ted Yates)
 4477,Documental
-4477, (intervenciones de: Juan Pujol)
 4478,Documental
-4478, (intervenciones de: Linda Ellerbee
-4478,Horst-Günter Marx
-4478,Klaus Mikoleit)
 4479,Documental
-4479, (intervenciones de: Robert McNamara)
 4480,Documental
-4480, (intervenciones de: Francisco Franco
-4480,José Millán Astray
-4480,Adolf Hitler
-4480,Benito Mussolini
-4480,Franklin D. Roosevelt
-4480,Joseph Stalin
-4480,Neville Chamberlain)
 4481,Documental
-4481, (intervenciones de: Randal Douc
-4481,Jean-Baptiste Phou)
 4482,Documental
 4483,Documental
 4484,Documental
@@ -33471,43 +31957,17 @@ id,actor
 4486,Documental
 4487,Documental
 4488,Documental
-4488, (intervenciones de: El Cabrero)
 4489,Documental
-4489, (intervenciones de: Rachel Atkins
-4489,Jim Carter
-4489,Rebecca Clarke
-4489,Chrissie Cotterill
-4489,Jonathan Firth
-4489,Martin Hodgson
-4489,Leigh Jones
-4489,Neji Nejah
-4489,Tim Pigott-Smith
-4489,Chad Shepherd)
 4490,Documental
-4490, (intervenciones de: Robin Ellis)
 4491,Documental
 4492,Documental
-4492, (intervenciones de: Mario Pergolini
-4492,Felipe Pigna
-4492,Daniel Rabinovich
-4492,Pablo Echarri
-4492,Fernán Mirás
-4492,Juan Di Natale
-4492,Pablo Rago
-4492,Anna Azcona
-4492,Candela Fernández
-4492,Julieta Díaz)
 4493,Documental
 4494,Documental
 4495,Documental
 4496,Documental
-4496, (intervenciones de: Mathieu Kassovitz)
 4497,Documental
 4498,Documental
-4498, (intervenciones de: Claude Lanzmann
-4498,Benjamin Murmelstein)
 4499,Documental
-4499, (intervenciones de: James Cameron)
 4500,Documental
 4501,Documental
 4502,Documental
@@ -33517,500 +31977,86 @@ id,actor
 4506,Documental
 4507,Documental
 4508,Documental
-4508, (intervenciones de: Leif Anders)
 4509,Documental
-4509, (intervenciones de: Mikhail Romm)
 4510,Documental
-4510, (intervenciones de: John Hurt
-4510,Daniel Ben Zenou
-4510,Garry Cooper
-4510,Tim Matthews
-4510,Eric Meyers
-4510,Naoko Mori
-4510,Ian Shaw)
 4511,Documental
-4511, (intervenciones de: Richard D. Winters
-4511,Carwood Lipton
-4511,Lynn 'Buck' Compton
-4511,William Guarnere
-4511,Edward 'Babe' Heffron
-4511,Robert 'Popeye' Wynn
-4511,Denver 'Bull' Randleman
-4511,Roderick Bain
-4511,Donald Malarkey
-4511,Patrick O'Keefe)
 4512,Documental
-4512, (intervenciones de: Francisco Franco)
 4513,Documental
 4514,Documental
-4514, (intervenciones de: Sixto Rodríguez)
 4515,Documental
-4515, (intervenciones de: Amy Winehouse
-4515,Mitch Winehouse
-4515,Salaam Remi
-4515,Mos Def
-4515,Tony Bennett
-4515,Nick Shymanksy
-4515,Mark Ronson)
 4516,Documental
-4516, (intervenciones de: Ry Cooder
-4516,Ibrahim Ferrer
-4516,Rubén González
-4516,Elíades Ochoa
-4516,Omara Portuondo
-4516,Compay Segundo
-4516,Pío Leyva
-4516,Cachaíto)
 4517,Documental
-4517, (intervenciones de: Bob Dylan
-4517,Joan Baez
-4517,Allen Ginsberg
-4517,Pete Seeger
-4517,D.A. Pennebaker
-4517,Dave Van Ronk
-4517,Maria Muldaur
-4517,Liam Clancy
-4517,John Cohen
-4517,Mickey Jones)
 4518,Documental
-4518, (intervenciones de: The Doors
-4518,Jim Morrison
-4518,Ray Manzarek
-4518,Robby Krieger
-4518,John Densmore)
 4519,Documental
-4519, (intervenciones de: Courtney Love
-4519,Dave Grohl
-4519,Kurt Cobain
-4519,Krist Novoselic)
 4520,Documental
-4520, (intervenciones de: Daniel Johnston)
 4521,Documental
 4522,Documental
-4522, (intervenciones de: Bob Marley)
 4523,Documental
-4523, (intervenciones de: Michel Camilo
-4523,Gato Barbieri
-4523,Tito Puente
-4523,Chucho Valdés
-4523,Bebo Valdés
-4523,Cachao
-4523,Paquito D'Rivera
-4523,Chano Domínguez)
 4524,Documental
-4524, (intervenciones de: John Lennon
-4524,Paul McCartney
-4524,George Harrison
-4524,Ringo Starr)
 4525,Documental
-4525, (intervenciones de: Nick Cave
-4525,Susie Cave
-4525,Warren Ellis
-4525,Darian Leader
-4525,Ray Winstone
-4525,Blixa Bargeld
-4525,Kylie Minogue
-4525,Arthur Cave
-4525,Arthur Cave)
 4526,Documental
-4526, (intervenciones de: George Harrison
-4526,Paul McCartney
-4526,Ringo Starr
-4526,Eric Clapton
-4526,Yoko Ono
-4526,Phil Spector
-4526,Terry Gilliam
-4526,Eric Idle
-4526,Tom Petty
-4526,Ravi Shankar)
 4527,Documental
-4527, (intervenciones de: Lemmy
-4527,Ozzy Osbourne
-4527,Billy Bob Thornton
-4527,Slash
-4527,Jarvis Cocker
-4527,Mick Jones
-4527,Triple H
-4527,Joan Jett)
 4528,Documental
-4528, (intervenciones de: Nina Simone
-4528,Lisa Simone Kelly)
 4529,Documental
-4529, (intervenciones de: Constantino Fernández 'Tino'
-4529,Yolanda Ventura
-4529,Gemma Termes Prat
-4529,Francisco Díaz 'Frank'
-4529,David Muñoz
-4529,Óscar Cañada
-4529,Joaquín Oristrell
-4529,Benny Ibarra (II)
-4529,Rodrigo Valdecantos
-4529,Parchís)
 4530,Documental
-4530, (intervenciones de: The Beatles
-4530,Paul McCartney
-4530,George Harrison
-4530,Ringo Starr)
 4531,Documental
-4531, (intervenciones de: Oasis
-4531,Noel Gallagher
-4531,Liam Gallagher)
 4532,Documental
-4532, (intervenciones de: John Lydon
-4532,Steve Jones
-4532,Paul Cook
-4532,Glen Matlock
-4532,Malcolm McLaren)
 4533,Documental
-4533, (intervenciones de: Darlene Love
-4533,Merry Clayton
-4533,Lisa Fischer
-4533,Judith Hill
-4533,Mabel John
-4533,Claudia Lennear
-4533,Táta Vega
-4533,Lou Adler
-4533,Stevvi Alexander
-4533,Patti Austin)
 4534,Documental
-4534, (intervenciones de: Tupac Shakur
-4534,James Cagney
-4534,Snoop Dogg
-4534,Ice-T
-4534,Janet Jackson
-4534,Jada Pinkett Smith
-4534,Ronald Reagan
-4534,Tim Roth
-4534,Will Smith
-4534,Marlon Wayans)
 4535,Documental
-4535, (intervenciones de: Joe Strummer
-4535,Steve Jones
-4535,Mick Jones
-4535,Terry Chimes
-4535,Bono
-4535,Joe Ely
-4535,John Cusack
-4535,Johnny Depp
-4535,Matt Dillon
-4535,Jim Jarmusch)
 4536,Documental
 4537,Documental
 4538,Documental
-4538, (intervenciones de: Chet Baker)
 4539,Documental
-4539, (intervenciones de: Lady Gaga
-4539,Florence Welch
-4539,Mark Ronson)
 4540,Documental
-4540, (intervenciones de: Paco de Lucía)
 4541,Documental
-4541, (intervenciones de: Carlinhos Brown
-4541,Bebo Valdés
-4541,Caetano Veloso
-4541,Gilberto Gil
-4541,Marisa Monte)
 4542,Documental
-4542, (intervenciones de: Kurt Cobain
-4542,Courtney Love
-4542,Nick Broomfield)
 4543,Documental
-4543, (intervenciones de: Janis Joplin
-4543,Cat Power
-4543,Peter Albin
-4543,Dick Cavett
-4543,Kris Kristofferson
-4543,Pink
-4543,Laura Joplin
-4543,Juliette Lewis
-4543,Michael Joplin)
 4544,Documental
-4544, (intervenciones de: Paco de Lucía
-4544,Enrique Morente
-4544,Manolo Sanlúcar
-4544,Joaquín Cortés
-4544,Tomatito
-4544,José Mercé
-4544,Mario Maya
-4544,Manuel Moneo
-4544,Rocío Jurado
-4544,Farruco)
 4545,Documental
-4545, (intervenciones de: Foo Fighters
-4545,William Goldsmith
-4545,Dave Grohl
-4545,Taylor Hawkins
-4545,Rami Jaffee
-4545,Nate Mendel
-4545,Bob Mould
-4545,Krist Novoselic
-4545,Chris Shiflett
-4545,Pat Smear)
 4546,Documental
-4546, (intervenciones de: Avicii
-4546,Nile Rodgers
-4546,David Guetta
-4546,Tiësto
-4546,Madonna)
 4547,Documental
-4547, (intervenciones de: Chavela Vargas
-4547,Pedro Almodóvar
-4547,Elena Benarroch
-4547,Miguel Bosé
-4547,Jose Alfredo Jimenez Jr.
-4547,Alicia Elena Pérez Duarte
-4547,Liliana Felipe
-4547,Martirio
-4547,Patria Jiménez Flores
-4547,Laura García-Lorca)
 4548,Documental
-4548, (intervenciones de: Joy Division
-4548,Ian Curtis
-4548,Peter Hook
-4548,Bernard Sumner
-4548,Stephen Morris
-4548,Anton Corbijn
-4548,Genesis P-Orridge
-4548,Paul Morley
-4548,John Peel)
 4549,Documental
-4549, (intervenciones de: Camarón de la Isla)
 4550,Documental
-4550, (intervenciones de: Charles Martinet
-4550,Toshihiro Nishikado
-4550,Tōru Iwatani
-4550,Rebecca Heineman
-4550,Nolan Bushnell
-4550,Jerry Lawson
-4550,Howard Scott Warshaw
-4550,Hirokazu Tanaka
-4550,Jeff Hansen
-4550,Richard Garriott)
 4551,Documental
-4551, (intervenciones de: Steve Wiebe
-4551,Billy Mitchell
-4551,Walter Day
-4551,Robert Mruczek
-4551,Brian Kuh
-4551,Dwayne Richard
-4551,Roy Shildt
-4551,Todd Rogers
-4551,Greg Bond
-4551,Doris Self)
 4552,Documental
-4552, (intervenciones de: Jonathan Blow
-4552,Brandon Boyer
-4552,Renaud Bédard
-4552,Anthony Carboni
-4552,Ron Carmel
-4552,Chris Dahlen
-4552,Phil Fish
-4552,Gus Mastrapa
-4552,Danielle McMillen
-4552,Joe Drilling)
 4553,Documental
-4553, (intervenciones de: Howard Scott Warshaw
-4553,Zak Penn
-4553,Nolan Bushnell
-4553,Seamus Blackley
-4553,Steven Spielberg
-4553,George R.R. Martin
-4553,Ernest Cline
-4553,Gary Whitta
-4553,Joe Lewandowski
-4553,Robert Rentschler)
 4554,Documental
-4554, (intervenciones de: Nolan Bushnell
-4554,Al Alcorn
-4554,John Romero
-4554,
-4554,Alexey Pazhitnov)
 4555,Documental
-4555, (intervenciones de: James D. Rolfe
-4555,Mike Matei
-4555,Kyle Justin
-4555,Kevin Finn
-4555,Liam Mulvey
-4555,Craig Skistimas)
 4556,Documental
-4556, (intervenciones de: Benedict Lim
-4556,Danil Ishutin
-4556,Clinton Loomis)
 4557,Documental
 4558,Documental
-4558, (intervenciones de: Wil Wheaton
-4558,Sean Astin
-4558,Zach Braff
-4558,Al Alcorn
-4558,Hideo Kojima
-4558,Max Landis
-4558,Randy Pitchford
-4558,Peter Armstrong
-4558,Cliff Bleszinski
-4558,Jim Brown)
 4559,Documental
-4559, (intervenciones de: Tim McVey
-4559,Dwayne Richard
-4559,Enrico Zanetti
-4559,Tom Asaki
-4559,Walter Day
-4559,Billy Mitchell
-4559,Joshuah Bearman
-4559,Brendan Becker
-4559,Richie Knucklez
-4559,Mark Hoff)
 4560,Documental
-4560, (intervenciones de: Nolan Bushnell
-4560,David Crane
-4560,Cain Devore
-4560,Todd Howard
-4560,Eric Lindstrom
-4560,Darion Lowenstein
-4560,Daniel Murray
-4560,John Romero)
 4561,Documental
-4561, (intervenciones de: Ibai Llanos
-4561,Antoni Daimiel
-4561,BarbeQ
-4561,El Rubius
-4561,TheGrefg
-4561,Ocelote
-4561,Mikel Iturriaga
-4561,Reven
-4561,Ander Cortés
-4561,Abuelo Garatea)
 4562,Documental
-4562, (intervenciones de: Charlie Brooker
-4562,Al Alcorn
-4562,Malorie Blackman)
 4563,Documental
-4563, (intervenciones de: Cory Barlog
-4563,Christopher Judge
-4563,Danielle Bisutti
-4563,Sunny Suljic
-4563,Bear McCreary
-4563,Shuhei Yoshida)
 4564,Documental
 4565,Documental
-4565, (intervenciones de: Jarett Cale
-4565,"Paul ""ReDeYe"" Chaloner"
-4565,Christopher Mykles
-4565,Sjokz
-4565,Jacob Toft-Andersen
-4565,Marcus Hill
-4565,Ham Jang-sik
-4565,Michal Blicharz
-4565,Lucas Larsen
-4565,Jason Tran)
 4566,Documental
 4567,Documental
-4567, (intervenciones de: Chistophe Balestra
-4567,Jacob Minkoff
-4567,Anthony Newman
-4567,Ricky Cambier
-4567,Benson Russell
-4567,Evan Wells
-4567,Erick Pangilinan
-4567,Philip Kovats
-4567,Travis McIntosh
-4567,Mark Botta)
 4568,Documental
 4569,Documental
 4570,Documental
-4570, (intervenciones de: Lolito Fernández
-4570,Manuel Fernández
-4570,Pilar Torres
-4570,Davinia Fernández
-4570,Aitor Fernández
-4570,Carlos Delgado
-4570,El Rubius
-4570,TheGrefg
-4570,WillyRex
-4570,AlexBy)
 4571,Documental
-4571, (intervenciones de: Duncan Jones
-4571,Felicia Day
-4571,Jamie Lee Curtis)
 4572,Documental
-4572, (intervenciones de: Shinji Hashimoto
-4572,Toshiyuki Itahana
-4572,Kazuhiko Aoki
-4572,Nobuaki Komoto)
 4573,Documental
-4573, (intervenciones de: Shinji Hashimoto
-4573,Yoshinori Kitase
-4573,Yusuke Naora)
 4574,Documental
-4574, (intervenciones de: Markus Persson
-4574,Jens Bergensten
-4574,Jonathan Blow
-4574,Lewis Brindley
-4574,Peter Molyneux
-4574,Brent Copeland
-4574,Ben Craddock
-4574,Logan Decker
-4574,Daniel Frisk
-4574,Eric Fullerton)
 4575,Documental
-4575, (intervenciones de: Hidemaro Fujibayashi
-4575,Takuhiro Dohta
-4575,Satoru Takizawa
-4575,Eiji Aonuma
-4575,Hajime Wakai)
 4576,Documental
-4576, (intervenciones de: RJ Mitte
-4576,Ibai Llanos
-4576,Luzu
-4576,TheGrefg
-4576,Chincheto
-4576,Zorman
-4576,Ewok
-4576,Arkano
-4576,Richard Bartle
-4576,Borja Luzuriaga)
 4577,Documental
-4577, (intervenciones de: Thor Aackerlund
-4577,Pat Contri
-4577,Harry Hong
-4577,Alexey Pazhitnov)
 4578,Documental
-4578, (intervenciones de: Stéphane Cardin
-4578,Luc Duchaine
-4578,Yannis Mallat
-4578,Jason Vandenberghe)
 4579,Documental
-4579, (intervenciones de: Hideo Kojima
-4579,Nacho Vigalondo)
 4580,Documental
-4580, (intervenciones de: Alexey Pazhitnov
-4580,Robert Stein
-4580,Henk Rogers)
 4581,Documental
 4582,Documental
 4583,Documental
 4584,Documental
-4584, (intervenciones de: Melina Juergens)
 4585,Documental
 4586,Documental
-4586, (intervenciones de: Yoshinori Kitase
-4586,Shinji Hashimoto
-4586,Yusuke Naora)
 4587,Documental
-4587, (intervenciones de: Hideo Kojima
-4587,Steffan Powell
-4587,Hideki Sasaki
-4587,Ludvig Forssell
-4587,Aoife Wilson
-4587,CHVRCHΞS
-4587,Lauren Mayberry
-4587,Martin Doherty
-4587,Iain Cook
-4587,Shota Hirasawa)
 4588,Documental
-4588, (intervenciones de: Yoshinori Kitase
-4588,Takashi Katano
-4588,Motomu Toriyama
-4588,Yusuke Naora)
 4589,Bodil Jørgensen
 4589,Jens Albinus
 4589,Troels Lyby
@@ -35526,7 +33572,6 @@ id,actor
 4804,Conrad Ricamora
 4804,Tom Verica
 4805,Documental
-4805, (intervenciones de: Steven Avery)
 4806,Eduardo Noriega
 4806,Penélope Cruz
 4806,Chete Lera
@@ -37561,13 +35606,7 @@ id,actor
 5027,Andy Milder
 5027,Gabriel Jarret
 5028,Documental
-5028, (intervenciones de: Felicidad Blanc
-5028,Juan Luis Panero
-5028,Leopoldo María Panero
-5028,Michi Panero)
 5029,Documental
-5029,Pau Donés
-5029,Jordi Évole
 5030,Steve Buscemi
 5030,Sienna Miller
 5030,Tara Elders
@@ -37578,19 +35617,10 @@ id,actor
 5030,Katja Schuurman
 5030,Wayne Wilcox
 5031,Documental
-5031, (intervenciones de: José Luis Cerveto)
 5032,Documental
-5032, (intervenciones de: Jean-Luc Godard
-5032,Woody Allen)
 5033,Documental
-5033, (intervenciones de: David Letterman
-5033,Barack Obama
-5033,John Lewis
-5033,George Clooney)
 5034,Animación
 5035,Documental
-5035, (intervenciones de: Steve Jobs
-5035,Robert X. Cringely)
 5036,Julianne Nicholson
 5036,Bobby Cannavale
 5036,Josh Charles
@@ -37618,19 +35648,9 @@ id,actor
 5039,Charlbi Dean Kriek
 5039,Meagan Kimberly Smith
 5040,Documental
-5040,Antonio Banderas
-5040,María Casado (intervenciones de: Vanesa Martín
-5040,David Bisbal
-5040,Pablo Alborán
-5040,Pasión Vega
-5040,Rozalén
-5040,Pablo Lopez)
 5041,Animación
 5042,Documental
-5042, (intervenciones de: Pier Paolo Pasolini
-5042,Ezra Pound)
 5043,Documental
-5043, (intervenciones de: Gonzalo Suárez)
 5044,Daniel Pérez Prada
 5044,Jorge Suquet
 5045,Tom Cruise
@@ -38861,8 +36881,6 @@ id,actor
 5189,Georgia King
 5189,Ken Duken
 5190,Documental
-5190, (intervenciones de: Walter Steiner
-5190,Werner Herzog)
 5191,Robert Redford
 5191,Gene Hackman
 5191,Camilla Sparv
@@ -38953,8 +36971,6 @@ id,actor
 5202,Shoichi Kofujita
 5202,Ichirô Okuni
 5203,Documental
-5203, (intervenciones de: Tony Hawk
-5203,Kelly Slater)
 5204,Roger Rose
 5204,Yvette Nipar
 5204,T.K. Carter
@@ -38985,7 +37001,6 @@ id,actor
 5206,Gaetana Korbin
 5207,Documental
 5208,Documental
-5208, (intervenciones de: Shane McConkey)
 5209,Ha Jung-woo
 5209,Sung Dong-il
 5209,Kim Ji-Suk
@@ -39023,9 +37038,6 @@ id,actor
 5213,Pâquerette
 5213,Jacques Vandenne
 5214,Documental
-5214, (intervenciones de: Mark Abma
-5214,Eric Hjorleifson
-5214,Chris Rubens)
 5215,Christian De Sica
 5215,Massimo Boldi
 5215,Nino Frassica
@@ -39137,12 +37149,6 @@ id,actor
 5226,Fernando Albizu
 5226,David Blanka
 5227,Documental
-5227, (intervenciones de: Felipe González
-5227,José María Aznar
-5227,José Luis Rodríguez Zapatero
-5227,Mariano Rajoy
-5227,Carlos Garaikoetxea
-5227,José Antonio Ardanza)
 5228,Unax Ugalde
 5228,Francesc Orella
 5228,Oriol Vila
@@ -39154,9 +37160,6 @@ id,actor
 5228,Pep Tosar
 5228,Aitor Mazo
 5229,Documental
-5229, (intervenciones de: Jesús Eguiguren
-5229,Alfredo Pérez Rubalcaba
-5229,Arnaldo Otegi)
 5230,Imanol Arias
 5230,Amaia Lasa
 5230,Montserrat Salvador
@@ -39311,9 +37314,6 @@ id,actor
 5250,Roberto Álvarez
 5251,Documental
 5252,Documental
-5252, (intervenciones de: Juan Gutiérrez
-5252,Mingo Rafols
-5252,Frauke Schulz)
 5253,Documental
 5254,Documental
 5255,Jorge Rivero
@@ -39345,7 +37345,6 @@ id,actor
 5257,Mikel Tello
 5257,Alvar Gordejuela
 5258,Documental
-5258, (intervenciones de: Paulo de Figueiredo)
 5259,Documental
 5260,Carlos Areces
 5260,Gorka Otxoa
@@ -39536,7 +37535,6 @@ id,actor
 5284,Hans Brausewetter
 5284,Werner Krauss
 5285,Documental
-5285, (intervenciones de: Enno Patlas)
 5286,Gregori Chmara
 5286,Elisabeta Skulskaja
 5286,Alla Tarasova
@@ -39555,18 +37553,7 @@ id,actor
 5287,Rio Ellbon
 5287,Margarete Tondeur
 5288,Documental
-5288, (intervenciones de: Thomas Lang
-5288,Eva Diekmann
-5288,David Sandberg
-5288,Helene Luckow
-5288,Wolfgang Kistermann
-5288,Daisy Spies)
 5289,Documental
-5289, (intervenciones de: Thomas Lang
-5289,Eva Diekmann
-5289,Daisy Spies
-5289,David Sandberg
-5289,Helene Luckow)
 5290,Emil Jannings
 5290,John Gottowt
 5290,Hans Adalbert Schlettow
@@ -39866,8 +37853,6 @@ id,actor
 5321,Mark Gordon
 5321,Louise Lasser
 5322,Documental
-5322, (intervenciones de: Thierry Guetta
-5322,Banksy)
 5323,Steve Coogan
 5323,Paddy Considine
 5323,Shirley Henderson
@@ -39990,9 +37975,6 @@ id,actor
 5336,Preston James Hillier
 5336,D.T. Carney
 5337,Documental
-5337, (intervenciones de: Jafar Panahi
-5337,Hana Saeidi
-5337,Nasrin Sotudé)
 5338,Warren Christie
 5338,Lloyd Owen
 5338,Ryan Robbins
@@ -40043,16 +38025,6 @@ id,actor
 5342,Hayden Szeto
 5342,Veronika Slowikowska
 5343,Documental
-5343, (intervenciones de: Fernando Ónega
-5343,Iñaki Gabilondo
-5343,Iñaki Anasagasti
-5343,Jorge Verstrynge
-5343,Luis María Ansón
-5343,Alejandro Rojas Marcos
-5343,Pedro Tena
-5343,Andreu Mayayo
-5343,Felipe Alcaraz
-5343,Joaquín Leguina)
 5344,Bruce Greenwood
 5344,Joe Anderson
 5344,Leslie Hope
@@ -40069,10 +38041,6 @@ id,actor
 5345,José María del Río
 5345,Rodrigo Cortés
 5346,Documental
-5346, (intervenciones de: Chris Waitt
-5346,Danielle McLeod
-5346,Olivia Trench
-5346,Hilary Waitt)
 5347,Benoît Poelvoorde
 5347,Rémy Belvaux
 5347,Jacqueline Poelvoorde Pappaert
@@ -40599,7 +38567,6 @@ id,actor
 5432,Russell Tovey
 5433,Emma Stone
 5434,Documental
-5434,Jennifer Lawrence
 5435,Charlize Theron
 5435,Gem Refoufi
 5436,Matthew McConaughey
@@ -40614,7 +38581,6 @@ id,actor
 5439,Nicolas Winding Refn
 5440,Kristen Stewart
 5441,Documental
-5441, (intervenciones de: Angelina Jolie)
 5442,Natalie Portman
 5442,Michelle Williams
 5443,Keira Knightley
@@ -40641,7 +38607,6 @@ id,actor
 5446,Jude Law
 5446,Michaela Kocianova
 5447,Documental
-5447, (intervenciones de: Emma Stone)
 5448,Kristen Stewart
 5448,Geraldine Chaplin
 5448,Jérémie Elkaïm
@@ -40664,7 +38629,6 @@ id,actor
 5452,Stefan Ackermann
 5452,Rodrigo Santoro
 5453,Documental
-5453, (intervenciones de: Johnny Depp)
 5454,Marion Cotillard
 5454,Bob Hardy
 5454,Alex Kapranos
@@ -40682,7 +38646,6 @@ id,actor
 5458,
 5459,Carole Bouquet
 5460,Documental
-5460,Zendaya
 5461,Renée Zellweger
 5461,Ewan McGregor
 5461,David Hyde Pierce
@@ -40977,16 +38940,6 @@ id,actor
 5492,Peter Friedman
 5492,Jamie Harrold
 5493,Documental
-5493, (intervenciones de: Haizea Alvarez
-5493,Patricia Aranguren
-5493,Laura Baena
-5493,Resurrección Barahona
-5493,Maribel Blázquez
-5493,Rosa María Calaf
-5493,Isa Calderón
-5493,Angela Cariddi
-5493,Rosa Cobo
-5493,Yolanda Domínguez)
 5494,Uma Thurman
 5494,Keanu Reeves
 5494,Angie Dickinson
@@ -41008,8 +38961,6 @@ id,actor
 5495,Yara Goubran
 5495,Ibrahim Salah
 5496,Documental
-5496, (intervenciones de: Laura De Pedro
-5496,Marta Barriuso)
 5497,Keira Knightley
 5497,Gugu Mbatha-Raw
 5497,Jessie Buckley
@@ -41146,9 +39097,6 @@ id,actor
 5511,Hayden Rorke
 5511,Sandro Giglio
 5512,Documental
-5512, (intervenciones de: Cyril Dion
-5512,Mélanie Laurent
-5512,Pierre Rabhi)
 5513,Julian Sands
 5513,Chris Young
 5513,Paula Marshall
@@ -41356,11 +39304,6 @@ id,actor
 5536,Rosa Estévez
 5536,Chiqui Maya
 5537,Documental
-5537, (intervenciones de: Israel Gómez Romero
-5537,Makiko Matsumura
-5537,Francisco José Gómez Romero
-5537,Soichi Yukimune
-5537,Saray Gómez Romero)
 5538,Antonio Gades
 5538,Cristina Hoyos
 5538,"Pepa Flores ""Marisol"""
@@ -41407,33 +39350,8 @@ id,actor
 5543,Diego Pantoja
 5543,Giovana
 5544,Documental
-5544, (intervenciones de: Enrique Morente
-5544,Estrella Morente
-5544,Antonio Arias
-5544,Tomatito
-5544,Alberto Manzano
-5544,Leonard Cohen 
-5544,Lee Ranaldo
-5544,Laura García Lorca)
 5545,Documental
-5545, (intervenciones de: Rocío Jurado
-5545,Paco de Lucía
-5545,Manolo Sanlúcar
-5545,Camarón de la Isla
-5545,Lola Flores
-5545,Manuel Pareja Obregón
-5545,Paco Toronjo
-5545,Merche Esmeralda
-5545,Manuela Carrasco
-5545,Los Romeros de la Puebla)
 5546,Documental
-5546, (intervenciones de: Paco de Lucía
-5546,Sara Baras
-5546,José Mercé
-5546,Estrella Morente
-5546,Manolo Sanlúcar
-5546,Miguel Poveda
-5546,Tomatito)
 5547,Documental
 5548,Eva Marciel
 5548,Fanny de Castro
@@ -41451,60 +39369,14 @@ id,actor
 5549,Fernando Guerrero Rebollo
 5549,Francisco Chavero Rios
 5550,Documental
-5550, (intervenciones de: Sara Baras
-5550,Manolo Sanlúcar
-5550,Antonio Canales
-5550,Aida Gómez
-5550,Enrique Morente
-5550,Estrella Morente
-5550,Gerardo Núñez
-5550,José Antonio Ruiz
-5550,Miguel Ángel Berna
-5550,Marta Carrasco)
 5551,Rosalía
 5552,Documental
-5552, (intervenciones de: Rafael Amador
-5552,Raimundo Amador
-5552,Rafael 'Manglis' Cobo
-5552,Rafael 'Bizco Eléctrico' García
-5552,Antonio 'Tacita' Moreno
-5552,Ricardo Pachón
-5552,Juanjo Pizarro
-5552,Juan 'El Camas' Romero
-5552,Kiko Veneno)
 5553,Documental
 5554,Documental
 5555,Documental
-5555, (intervenciones de: Antonio Ruiz Soler
-5555,Pilar López
-5555,Bernarda de Utrera
-5555,Fernando Rey)
 5556,Documental
-5556, (intervenciones de: Paco de Lucía
-5556,Chick Corea
-5556,John McLaughlin
-5556,Carlos Santana
-5556,Tomatito)
 5557,Documental
-5557, (intervenciones de: Raimundo Amador
-5557,Manuel Molina
-5557,Ricardo Pachón
-5557,Matilde Coral
-5557,Farruco
-5557,Lole Montoya
-5557,El Titi
-5557,Carmen Montoya)
 5558,Documental
-5558, (intervenciones de: Camarón de la Isla
-5558,Dolores Montoya
-5558,Tomatito
-5558,Curro Romero
-5558,Ricardo Pachón
-5558,Ketama
-5558,Josemi Carmona
-5558,Antonio Carmona
-5558,Juan Carmona
-5558,Alejandro Sanz)
 5559,Rafael Alonso
 5559,Estrellita Castro
 5559,Ángel de Andrés
@@ -41542,16 +39414,6 @@ id,actor
 5563,Jorge Muriel
 5563,Elio Sagües
 5564,Documental
-5564, (intervenciones de: Rafael Amargo
-5564,Estrella Morente
-5564,Antonio Carmona
-5564,Juan Andrés Maya
-5564,Marina Heredia
-5564,Manolete
-5564,Mariquilla
-5564,La Coneja
-5564,Niño de Osuna
-5564,Raimundo Heredia Heredia)
 5565,Lola Flores
 5565,Agustín Lara
 5565,Joaquín Cordero
@@ -41579,8 +39441,6 @@ id,actor
 5569,Rafael de Córdoba
 5569,Sebastián Palomo Linares
 5570,Documental
-5570, (intervenciones de: Manuel Agujetas
-5570,Moraíto Chico)
 5571,Documental
 5572,Documental
 5573,Estrellita Castro
@@ -41594,8 +39454,6 @@ id,actor
 5573,Xan das Bolas
 5573,Dolores Abril
 5574,Documental
-5574, (intervenciones de: El Niño Miguel
-5574,Paco de Lucía)
 5575,José 'El Francés'
 5575,Niña Pastori
 5575,Vicente Amigo
@@ -41605,24 +39463,10 @@ id,actor
 5576,Manuel de Paula
 5576,Félix Rotaeta
 5577,Documental
-5577, (intervenciones de: Carmencita García)
 5578,Documental
-5578, (intervenciones de: Miguel Poveda)
 5579,Documental
-5579, (intervenciones de: Sara Baras)
 5580,Documental
-5580, (intervenciones de: Trini Alonso
-5580,Carmen Amaya
-5580,Rafaela Aparicio
-5580,José Luis Coll
-5580,Imperio Argentina
-5580,María Cuadra
-5580,Lilián de Celis
-5580,Marujita Díaz
-5580,Rafael Farina
-5580,Nani Fernández)
 5581,Documental
-5581, (intervenciones de: Lola Flores)
 5582,Ben Stiller
 5582,Kristen Wiig
 5582,Adam Scott
@@ -41660,9 +39504,6 @@ id,actor
 5585,Eriq La Salle
 5585,Dylan Smith
 5586,Documental
-5586," (intervenciones de: Sebastião Salgado
-
-)"
 5587,Mario Casas
 5587,Richard van Weyden
 5587,Alain Hernández
@@ -41814,7 +39655,6 @@ id,actor
 5604,Miriam Grant
 5604,Clive Merrison
 5605,Documental
-5605, (intervenciones de: James Nachtwey)
 5606,Documental
 5607,Romy Schneider
 5607,Fabio Testi
@@ -41881,7 +39721,6 @@ id,actor
 5613,Axel Sichrovsky
 5613,Gerhard Gutberlet
 5614,Documental
-5614, (intervenciones de: Art Wolfe)
 5615,"Mario Moreno ""Cantinflas"""
 5615,Rosa Arenas
 5615,Ángel Garasa
@@ -41945,8 +39784,6 @@ id,actor
 5626,Documental
 5627,Animación
 5628,Documental
-5628, (intervenciones de: Auguste Lumière
-5628,P.J.C. Janssen)
 5629,Albert Finney
 5629,Shirley Anne Field
 5629,Rachel Roberts
@@ -42111,13 +39948,6 @@ id,actor
 5647,Penelope Horner
 5647,Oliver Reed
 5648,Documental
-5648, (intervenciones de: Chris Barber
-5648,Ron Bowden
-5648,Jim Bray
-5648,Lonnie Donegan
-5648,Pat Halcox
-5648,Ottilie Patterson
-5648,Monty Sunshine)
 5649,Peter Finch
 5649,Rita Tushingham
 5649,Lynn Redgrave
@@ -42148,11 +39978,6 @@ id,actor
 5652,Martin Wyldeck
 5652,John Gill
 5653,Documental
-5653, (intervenciones de: Michael Andrews
-5653,Eduardo Paolozzi
-5653,Valy
-5653,Denis Richardson
-5653,Cecilia May)
 5654,Documental
 5655,Documental
 5656,Mark Strong
@@ -43666,11 +41491,9 @@ id,actor
 5859,Neil Jackson
 5860,Animación
 5861,Documental
-5861, (intervenciones de: Margarita Mamun)
 5862,Animación
 5863,Documental
 5864,Documental
-5864, (intervenciones de: Nadia Comaneci)
 5865,Mitchell Gaylord
 5865,Janet Jones
 5865,Michelle Phillips
@@ -43805,7 +41628,6 @@ id,actor
 5882,Luis Carlos de la Lombana
 5883,Animación
 5884,Documental
-5884, (intervenciones de: Tiger Woods)
 5885,Dean Martin
 5885,Jerry Lewis
 5885,Donna Reed
@@ -44513,15 +42335,6 @@ id,actor
 5966,Teruyuki Kagawa
 5966,Shaun Lawton
 5967,Documental
-5967, (intervenciones de: Hugo Armstrong
-5967,Rosalind Chao
-5967,Stephen Dorff
-5967,John Getz
-5967,Mariel Hemingway
-5967,Michelle Krusiec
-5967,Chris Mulkey
-5967,Jürgen Prochnow
-5967,Woody Harrelson)
 5968,Tim Robbins
 5968,Adrien Brody
 5968,Chen Daoming
@@ -44654,7 +42467,6 @@ id,actor
 5982,Chea Lyda Chan
 5983,Documental
 5984,Documental
-5984, (intervenciones de: Thet Sambath)
 5985,Leonor Varela
 5985,Carlos Padilla
 5985,Ofelia Medina
@@ -44866,12 +42678,6 @@ id,actor
 6007,Raúl Cancio
 6007,Manuel Arbó
 6008,Documental
-6008, (intervenciones de: Imperio Argentina
-6008,Estrellita Castro
-6008,Miguel de Molina
-6008,Lola Flores
-6008,Celia Gámez
-6008,Juanita Reina)
 6009,Juan Diego Botto
 6009,María Valverde
 6009,Ivana Baquero
@@ -45002,11 +42808,6 @@ id,actor
 6025,Kiti Mánver
 6025,Fernando Vivanco
 6026,Documental
-6026, (intervenciones de: Florián García
-6026,Esperanza Martínez
-6026,Remedios Montero
-6026,Eduardo Pons Prades
-6026,Manuel Zapico)
 6027,Elena Furiase
 6027,Jacobo Muñoz
 6027,Iñigo Etayo
@@ -45017,16 +42818,6 @@ id,actor
 6027,Guido Balzaretti
 6027,Ainhoa Aldanondo
 6028,Documental
-6028, (intervenciones de: Francisco Franco
-6028,José Antonio Aguirre
-6028,Manuel Azaña
-6028,Lluís Companys
-6028,Raimundo Fernández Cuesta
-6028,María del Carmen Franco y Polo
-6028,Juan García Oliver
-6028,Dolores Ibárruri
-6028,V.I. Lenin
-6028,Diego Martínez Barrio)
 6029,Tom Cruise
 6029,Robert Redford
 6029,Meryl Streep
@@ -45135,7 +42926,6 @@ id,actor
 6043,Documental
 6044,Documental
 6045,Documental
-6045, (intervenciones de: Jon Sistiaga)
 6046,Michelle Monaghan
 6046,Ron Livingston
 6046,Emmanuelle Chriqui
@@ -45209,14 +42999,7 @@ id,actor
 6055,Anne Bedian
 6056,Documental
 6057,Documental
-6057, (intervenciones de: Gholam Nasir
-6057,Marina Golbahari
-6057,Koko Ewas
-6057,Koko Mullalih
-6057,Sergei Kovinchenko
-6057,Devin A. Cleeves)
 6058,Documental
-6058, (intervenciones de: Nathalie Richard)
 6059,Documental
 6060,Abdul Ghani
 6060,Jawan Mard Homayoun
@@ -45224,9 +43007,6 @@ id,actor
 6060,Guilda Chahverdi
 6060,Walli Tallosh
 6061,Documental
-6061, (intervenciones de: Carlos Boettcher
-6061,Mike Boettcher
-6061,Kalen M. Waite)
 6062,Documental
 6063,Juliette Lewis
 6063,Layla Alizada
@@ -45790,14 +43570,6 @@ id,actor
 6128,Peter Ortiz
 6128,Dorothy Patrick
 6129,Documental
-6129, (intervenciones de: Brian McKenna
-6129,Terence McKenna
-6129,Dominic Desjardins
-6129,Lisa Brownyn Moore
-6129,Pascal Petardi
-6129,Tim Post
-6129,Marc Trottier
-6129,Gianpaolo Venuta)
 6130,Documental
 6131,Jeremy Davies
 6131,Ben Affleck
@@ -46240,11 +44012,6 @@ id,actor
 6188,Shawn Roberts
 6188,Vik Sahay
 6189,Documental
-6189, (intervenciones de: Samir Khader
-6189,Josh Rushing
-6189,Hassam Ibrahim
-6189,Deema Khatib
-6189,Tom Mintier)
 6190,Documental
 6191,Tye Sheridan
 6191,Alden Ehrenreich
@@ -46451,12 +44218,6 @@ id,actor
 6214,Juan Badra
 6214,María Simone
 6215,Documental
-6215, (intervenciones de: Lou Armour
-6215,David Jackson
-6215,Rubén Otero
-6215,Sukrim Rai
-6215,Gabriel Sagastume
-6215,Marcelo Vallejo)
 6216,Juan Grandinetti
 6216,Inés Estévez
 6216,Rafael Spregelburd
@@ -46498,7 +44259,6 @@ id,actor
 6220,Nasser Memarzia
 6220,Oona Chaplin
 6221,Documental
-6221, (intervenciones de: Werner Herzog)
 6222,Michael Keaton
 6222,Helena Bonham Carter
 6222,Joshua Leonard
@@ -46617,8 +44377,6 @@ id,actor
 6234,Fares Hananya
 6234,Reymond Amsalem
 6235,Documental
-6235, (intervenciones de: Catherine Deneuve
-6235,Rabih Mroue)
 6236,Nada Abou Farhat
 6236,Georges Khabbaz
 6236,Rawia Elchab
@@ -46711,10 +44469,6 @@ id,actor
 6248,Sergej Trifunovic
 6248,Emir Hadzihafizbegovic
 6249,Documental
-6249, (intervenciones de: Bosko Radojkovic
-6249,Bozidar Protic
-6249,Shyhrete Berisha
-6249,Marko Minic)
 6250,Jasna Djuricic
 6250,Izudin Bajrovic
 6250,Boris Ler
@@ -47175,7 +44929,6 @@ id,actor
 6306,Documental
 6307,Documental
 6308,Documental
-6308, (intervenciones de: Wiam Bedirxan)
 6309,Esben Smed Jensen
 6309,Toby Kebbell
 6309,Charlie Carrick
@@ -47192,10 +44945,6 @@ id,actor
 6313,Documental
 6314,Documental
 6315,Documental
-6315, (intervenciones de: Ziad Abaza
-6315,Janine Birkett
-6315,Julian Lewis Jones
-6315,Karine Myriam Lapouble)
 6316,Martin Sheen
 6316,Marlon Brando
 6316,Robert Duvall
@@ -47336,16 +45085,6 @@ id,actor
 6330,Sam Bottoms
 6330,Elias Koteas
 6331,Documental
-6331, (intervenciones de: John Lennon
-6331,Yoko Ono
-6331,Carl Bernstein
-6331,Noam Chomsky
-6331,Walter Cronkite
-6331,Mario Cuomo
-6331,Angela Davis
-6331,Ron Kovic 
-6331,G. Gordon Liddy
-6331,George McGovern)
 6332,Gene Hackman
 6332,Danny Glover
 6332,Jerry Reed
@@ -47452,7 +45191,6 @@ id,actor
 6344,Cindy Chu
 6344,Charlotte Ubben
 6345,Documental
-6345, (intervenciones de: Hernán Zin)
 6346,River Phoenix
 6346,Lili Taylor
 6346,Richard Panebianco
@@ -47498,13 +45236,6 @@ id,actor
 6351,Dennis Howard
 6351,Evan C. Kim
 6352,Documental
-6352, (intervenciones de: Anne Bellec
-6352,Karen Blanguernon
-6352,Bernard Fresson
-6352,Maurice Garrel
-6352,Jean-Luc Godard
-6352,Valérie Mayoux
-6352,Marie-France Mignal)
 6353,Alec Baldwin
 6353,Sean Connery
 6353,Sam Neill
@@ -47673,8 +45404,6 @@ id,actor
 6369,Deniz Petzold
 6369,Alicia von Rittberg
 6370,Documental
-6370, (intervenciones de: Fidel Castro
-6370,Oliver Stone)
 6371,Richard Burton
 6371,Claire Bloom
 6371,Oskar Werner
@@ -48386,16 +46115,6 @@ id,actor
 6464,Ta'Rhonda Jones
 6465,Documental
 6466,Documental
-6466, (intervenciones de: Sal Abbatiello
-6466,Paul Ackerley
-6466,Bill Adler
-6466,Charlie Ahearn
-6466,Claire Armstrong
-6466,B-Real
-6466,Afrika Bambaataa
-6466,Big Daddy Kane
-6466,Kurtis Blow
-6466,Dan Charnas)
 6467,Josh Peck
 6467,Josh Holloway
 6467,Chris Brown
@@ -48417,9 +46136,6 @@ id,actor
 6468,Ray Iannicelli
 6468,Yair Koas
 6469,Documental
-6469, (intervenciones de: Adam Horovitz
-6469,Mike D
-6469,Beastie Boys)
 6470,Documental
 6471,Lisa Teige
 6471,Fabian Svegaard Tapia
@@ -48439,8 +46155,6 @@ id,actor
 6472,Mary Alice
 6472,Shawn Elliott
 6473,Documental
-6473, (intervenciones de: Tote King
-6473,SFDK)
 6474,Anthony Anderson
 6474,Uzo Aduba
 6474,Emayatzy Corinealdi
@@ -48458,16 +46172,6 @@ id,actor
 6475,José Antonio Díaz
 6475,Mireia Ortega
 6476,Documental
-6476, (intervenciones de: Dr. Dre
-6476,Jimmy Iovine
-6476,Ice Cube
-6476,Eminem
-6476,Snoop Dogg
-6476,Bono
-6476,Sean 'P. Diddy' Combs
-6476,Nas
-6476,Stevie Nicks
-6476,Tom Petty)
 6477,Radha Blank
 6477,Jacob Ming-Trent
 6477,T.J. Atoms
@@ -48499,8 +46203,6 @@ id,actor
 6479,Mitchell Edwards
 6479,Jermel Howard
 6480,Documental
-6480, (intervenciones de: The Notorious B.I.G.
-6480,Sean 'P. Diddy' Combs)
 6481,Rayane Bensetti
 6481,Fiorella Campanella
 6481,Guillaume de Tonquedec
@@ -48512,8 +46214,6 @@ id,actor
 6481,Mwen Marchand
 6481,Brandon Masele
 6482,Documental
-6482, (intervenciones de: The Notorious B.I.G.
-6482,Tupac Shakur)
 6483,Christopher Reid
 6483,Robin Harris
 6483,Christopher Martin
@@ -48572,10 +46272,6 @@ id,actor
 6489,Theresa Randle
 6489,Willard Pugh
 6490,Documental
-6490, (intervenciones de: David Ransanz
-6490,Oro Ransanz
-6490,Mia Ransanz
-6490,Luna Ransanz)
 6491,Lauren Cohan
 6491,Danai Gurira
 6491,Kat Graham
@@ -48587,7 +46283,6 @@ id,actor
 6491,Dominic L. Santana
 6491,Grace Gibson
 6492,Documental
-6492, (intervenciones de: Snoop Dogg)
 6493,Vanilla Ice
 6493,Kristin Minter
 6493,Michael Gross
@@ -48599,15 +46294,12 @@ id,actor
 6493,Jack McGee
 6493,Bobbie Brown
 6494,Documental
-6494, (intervenciones de: Tote King)
 6495,Eminem
 6496,Eminem
 6496,Dido
 6496,Devon Sawa
 6496,Nathan Mathers
 6497,Documental
-6497, (intervenciones de: Mister Cartoon
-6497,Estevan Oriol)
 6498,Michelle Pfeiffer
 6498,Coolio
 6498,L.V.
@@ -49558,8 +47250,6 @@ id,actor
 6614,Choichiro Kawarazaki
 6614,Mieko Suzuki
 6615,Documental
-6615, (intervenciones de: Iker Jiménez
-6615,Carmen Porter)
 6616,Gregory Peck
 6616,Ava Gardner
 6616,Fred Astaire
@@ -51453,16 +49143,6 @@ id,actor
 6848,Colin Ford
 6848,Jonah Bobo
 6849,Documental
-6849, (intervenciones de: Catalina Garayoa
-6849,Barbara Gehring
-6849,Skyler Gisondo
-6849,Chris Grundy
-6849,Sophia Hammons
-6849,Kara Hayward
-6849,Vincent Kartheiser
-6849,Marty Lindsey
-6849,Tristan Harris
-6849,Tim Kendall)
 6850,Dwayne Johnson
 6850,Kevin Hart
 6850,Amy Ryan
@@ -51474,13 +49154,6 @@ id,actor
 6850,Timothy John Smith
 6850,Sione Kelepi
 6851,Documental
-6851, (intervenciones de: Edward Snowden
-6851,Jacob Appelbaum
-6851,Julian Assange
-6851,Glenn Greenwald
-6851,Ewen MacAskill
-6851,Laura Poitras
-6851,Jeremy Scahill)
 6852,Diane Lane
 6852,Colin Hanks
 6852,Billy Burke
@@ -51948,27 +49621,7 @@ id,actor
 6903,Max Alvarado
 6903,Mike Cohen
 6904,Documental
-6904, (intervenciones de: Maryam d'Abo
-6904,Halle Berry
-6904,Ursula Andress
-6904,Honor Blackman
-6904,Luciana Paluzzi
-6904,Jill St. John
-6904,Jane Seymour
-6904,Maud Adams
-6904,Lois Chiles
-6904,Carey Lowell)
 6905,Documental
-6905, (intervenciones de: Michael Wilson 
-6905,Barbara Broccoli
-6905,George Lazenby
-6905,Roger Moore
-6905,Timothy Dalton
-6905,Pierce Brosnan
-6905,Daniel Craig
-6905,Judi Dench
-6905,Christopher Lee
-6905,Maud Adams)
 6906,Barry Nelson
 6906,Peter Lorre
 6906,Linda Christian
@@ -51979,56 +49632,10 @@ id,actor
 6906,Kurt Katch
 6906,William Lundigan
 6907,Documental
-6907, (intervenciones de: Patrick MacNee
-6907,Ken Adam
-6907,Martine Beswick
-6907,Honor Blackman
-6907,Pierce Brosnan
-6907,Sean Connery
-6907,Shirley Eaton
-6907,Guy Hamilton
-6907,Peter Hunt
-6907,Lynn-Holly Johnson)
 6908,Documental
-6908, (intervenciones de: Patrick MacNee
-6908,Dana Broccoli
-6908,Steven Saltzman
-6908,Michael Wilson 
-6908,Terence Young
-6908,Sean Connery
-6908,Ken Adam
-6908,Peter Hunt
-6908,Lois Maxwell
-6908,Eunice Gayson)
 6909,Documental
-6909, (intervenciones de: Sean Connery
-6909,David Giammarco
-6909,Desmond Llewelyn
-6909,Andrew Lycett
-6909,Lois Maxwell
-6909,Roger Moore
-6909,Natalie Roy
-6909,Hilary Saltzman)
 6910,Documental
-6910, (intervenciones de: Patrick MacNee
-6910,Ken Adam
-6910,John Barry
-6910,Martine Beswick
-6910,Guy Hamilton
-6910,Peter Lamont
-6910,Desmond Llewelyn
-6910,Luciana Paluzzi)
 6911,Documental
-6911, (intervenciones de: Patrick MacNee
-6911,Ken Adam
-6911,John Barry
-6911,Martine Beswick
-6911,Daniela Bianchi
-6911,Dana Broccoli
-6911,Walter Gotell
-6911,Richard Graydon
-6911,Peter Hunt
-6911,Desmond Llewelyn)
 6912,Vince Edwards
 6912,Judy Geeson
 6912,Peter Vaughan
@@ -52499,8 +50106,6 @@ id,actor
 6968,Moustache
 6969,Documental
 6970,Documental
-6970, (intervenciones de: Carlos Santana
-6970,Herbie Hancock)
 6971,Animación
 6972,Animación
 6973,Documental
@@ -53126,10 +50731,6 @@ id,actor
 7054,Philip Rosch
 7054,John Moraitis
 7055,Documental
-7055, (intervenciones de: Antoine Lumière
-7055,Félicien Trewey
-7055,Antoine Féraud
-7055,Alphonse Winckler)
 7056,Ana Torrent
 7056,Ernesto Alterio
 7056,Carlos Kaniowsky
@@ -53333,10 +50934,6 @@ id,actor
 7080,Tamás Keresztes
 7080,Péter Haumann
 7081,Documental
-7081, (intervenciones de: Tatyana McFadden
-7081,Jonnie Peacock
-7081,Bebe Vio Beatrice
-7081,Jean Baptiste Alaize)
 7082,Jean-Paul Belmondo
 7082,Marie-France Pisier
 7082,Rachid Ferrache
@@ -53347,7 +50944,6 @@ id,actor
 7083,Animación
 7084,Documental
 7085,Documental
-7085, (intervenciones de: Abebe Bikila)
 7086,Stephen Brennan
 7086,Ariadna Gil
 7086,Josep Maria Pou
@@ -53381,10 +50977,7 @@ id,actor
 7089,Francisco Merino
 7089,José Pedro Carrión
 7090,Documental
-7090, (intervenciones de: Adolf Hitler
-7090,Jesse Owens)
 7091,Documental
-7091, (intervenciones de: Darius Alexander)
 7092,David Keith
 7092,Malcolm McDowell
 7092,Warren Clarke
@@ -53456,16 +51049,6 @@ id,actor
 7099,Laurah Guillen
 7099,Thomas Bull
 7100,Documental
-7100, (intervenciones de: Sylvester Stallone
-7100,Ralph Macchio
-7100,Elisabeth Shue
-7100,Matthew McConaughey
-7100,Jean-Claude Van Damme
-7100,Renée Zellweger
-7100,Martin Scorsese
-7100,Al Pacino
-7100,John Travolta
-7100,Jack Nicholson)
 7101,Francisco Calatrava
 7101,Manuel Calatrava
 7101,Marta Flores
@@ -53544,11 +51127,6 @@ id,actor
 7109,Akihito Yagi
 7109,Shinji Suzuki
 7110,Documental
-7110, (intervenciones de: Fumio Demura
-7110,Pat Morita
-7110,Steven Seagal
-7110,Dolph Lundgren
-7110,Michael Jai White)
 7111,Dawn Addams
 7111,Peter van Eyck
 7111,Gert Fröbe
@@ -55659,7 +53237,6 @@ id,actor
 7475,Jorge Roelas
 7475,Antonio Molero
 7476,Documental
-7476, (intervenciones de: Michael Moore)
 7477,Jordi Rebellón
 7477,Antonio Zabálburu
 7477,Alicia Borrachero
@@ -56532,9 +54109,6 @@ id,actor
 7620,Brett Cullen
 7620,Michael Rooker
 7621,Documental
-7621, (intervenciones de: Fernando García
-7621,Juan Ignacio Blanco
-7621,Pepe Navarro)
 7622,Luis Tosar
 7622,Marta Belmonte
 7622,Guillermo Toledo
@@ -57325,10 +54899,6 @@ id,actor
 7715,Francis Pardeihan
 7715,Matthew T. Reynolds
 7716,Documental
-7716, (intervenciones de: Anna Wintour
-7716,Grace Coddington
-7716,Thakoon Panichgul
-7716,André Leon Talley)
 7717,Documental
 7718,Mary-Kate Olsen
 7718,Ashley Olsen
@@ -57341,7 +54911,6 @@ id,actor
 7718,Michelangelo Tommaso
 7718,Matt Patresi
 7719,Documental
-7719, (intervenciones de: Alexander McQueen)
 7720,Gaspard Ulliel
 7720,Jérémie Rénier
 7720,Louis Garrel
@@ -57418,7 +54987,6 @@ id,actor
 7729,Virgile Bramley
 7729,Aleksandra Yermak
 7730,Documental
-7730, (intervenciones de: Bill Cunningham)
 7731,Erica Dasher
 7731,Andie MacDowell
 7731,Nick Roux
@@ -57680,8 +55248,6 @@ id,actor
 7781,Kelly Hu
 7781,Sven-Ole Thorsen
 7782,Documental
-7782, (intervenciones de: Ewan McGregor
-7782,Charley Boorman)
 7783,Laurence Fishburne
 7783,Derek Luke
 7783,Orlando Jones
@@ -57753,15 +55319,6 @@ id,actor
 7789,Mario Magalhaes
 7789,Marc-Antoine Duquenne
 7790,Documental
-7790, (intervenciones de: Jorge Lorenzo
-7790,Marc Marquez
-7790,Dani Pedrosa
-7790,Brad Pitt
-7790,Graziano Rossi
-7790,Valentino Rossi
-7790,Marco Simoncelli
-7790,Paolo Simoncelli
-7790,Casey Stoner)
 7791,Aaron Paul
 7791,Josh Wiggins
 7791,Juliette Lewis
@@ -57803,8 +55360,6 @@ id,actor
 7794,Carolina Garcia
 7794,Ryan Locke
 7795,Documental
-7795, (intervenciones de: Ewan McGregor
-7795,Charley Boorman)
 7796,Hans van Tongeren
 7796,Renée Soutendijk
 7796,Toon Agterberg
@@ -57826,16 +55381,6 @@ id,actor
 7797,Philip Brodie
 7798,Joseph Koch
 7799,Documental
-7799, (intervenciones de: Ángel Nieto
-7799,Álex Crivillé
-7799,Carlos Lavado
-7799,Marco Luchinelli
-7799,Jorge Martínez Aspar
-7799,Carlos Cardús
-7799,Sito Pons
-7799,Andreu Rasasa
-7799,Mercedes Milá
-7799,José María García)
 7800,Rick Gonzalez
 7800,Norman Reedus
 7800,Dustin Christenson
@@ -57861,10 +55406,6 @@ id,actor
 7802,Ken Call
 7803,Documental
 7804,Documental
-7804, (intervenciones de: Ewan McGregor
-7804,Valentino Rossi
-7804,Jorge Lorenzo
-7804,Casey Stoner)
 7805,José Gras
 7805,Laura Prennica
 7805,Lali Espinet
@@ -57876,11 +55417,6 @@ id,actor
 7805,Diana Miller
 7805,Irene Semmling
 7806,Documental
-7806, (intervenciones de: Steve McQueen
-7806,Bruce Brown
-7806,David Evans
-7806,Mert Lawwill
-7806,J.N. Roberts)
 7807,Ruben Orlando Beltrán
 7807,Armando Galvalisi
 7807,Gabriel Rogelio Méndez
@@ -57888,8 +55424,6 @@ id,actor
 7807,Natalia Rodríguez Gómez
 7807,Franco A. González
 7808,Documental
-7808, (intervenciones de: Ewan McGregor
-7808,Charley Boorman)
 7809,Alain Delon
 7809,Marianne Faithfull
 7809,Roger Mutton
@@ -57939,7 +55473,6 @@ id,actor
 7815,Wayne Heffley
 7815,Gregory Morton
 7816,Documental
-7816, (intervenciones de: Jorge Lorenzo)
 7817,Animación
 7818,Katy Perry
 7818,James Ken Blackmon
@@ -58432,16 +55965,6 @@ id,actor
 7881,Cassie Stuart
 7881,Stephen Lee
 7882,Documental
-7882, (intervenciones de: Donald Ian Black
-7882,Jordan Bryce
-7882,Rob Bruner
-7882,Mike Gerbi
-7882,Robert Riechel Jr.
-7882,Justin Shepherd
-7882,Mike Vaughn
-7882,Margo Dane
-7882,Dolph Lundgren
-7882,Josh Odsess-Rubin)
 7883,Animación
 7883,Anya Taylor-Joy
 7883,Gabriel Bateman
@@ -58807,7 +56330,6 @@ id,actor
 7935,Luca Asta Sardelis
 7935,Imran Adams
 7936,Documental
-7936, (intervenciones de: Martin Strel)
 7937,Javicia Leslie
 7937,Keesha Sharp
 7937,Tom Maden
@@ -58832,7 +56354,6 @@ id,actor
 7940,Rafael Rojas
 7940,Bruce Weitz
 7941,Documental
-7941, (intervenciones de: Joaquín Calleja)
 7942,Janis Vercaempst
 7942,Johan Heldenbergh
 7942,Wim Opbrouck
@@ -58901,7 +56422,6 @@ id,actor
 7953,Diane Delano
 7953,Benjamin Bratt
 7954,Documental
-7954, (intervenciones de: Timothy Treadwell)
 7955,Anthony Hopkins
 7955,Alec Baldwin
 7955,Elle MacPherson
@@ -60280,8 +57800,6 @@ id,actor
 8130,Elina Labourdette
 8130,Corinne Marchand
 8131,Documental
-8131, (intervenciones de: Edgar Morin
-8131,Jean Rouch)
 8132,Betty Schneider
 8132,Giani Esposito
 8132,Françoise Prévost
@@ -60588,10 +58106,6 @@ id,actor
 8174,Frantisek Kovárík
 8174,Vladimir Erlebach
 8175,Documental
-8175, (intervenciones de: Jirí Suchý
-8175,Jirí Slitr
-8175,Ladislav Jakim
-8175,Vladimír Hrabánek)
 8176,Jirí Sovák
 8176,Jana Brejchová
 8176,Lubomír Lipský
@@ -60891,7 +58405,6 @@ id,actor
 8209,Argentina Brunetti
 8209,George Chakiris
 8210,Documental
-8210, (intervenciones de: Ramón Gener)
 8211,Animación
 8212,Anna Netrebko
 8212,Rolando Villazón
@@ -61036,10 +58549,8 @@ id,actor
 8235,Edwin Rochelle
 8236,Georges Méliès
 8237,Documental
-8237, (intervenciones de: Auguste Lumière)
 8238,Georges Méliès
 8239,Documental
-8239, (intervenciones de: Auguste Lumière)
 8240,Georges Méliès
 8241,Documental
 8242,Georges Méliès
@@ -61054,14 +58565,9 @@ id,actor
 8248,Georges Méliès
 8249,Sam Dalton
 8250,Documental
-8250, (intervenciones de: Harriet Hartley
-8250,Adolphe Le Prince
-8250,Joseph Whitley
-8250,Sarah Whitley)
 8251,Georges Méliès
 8251,André Méliès
 8252,Documental
-8252, (intervenciones de: Loie Fuller)
 8253,Animación
 8254,Mary Fuller
 8254,Charles Ogle
@@ -61079,9 +58585,6 @@ id,actor
 8259,
 8260,Georges Méliès
 8261,Documental
-8261, (intervenciones de: Gaston Méliès
-8261,Georges Méliès
-8261,Georges Méliès)
 8262,Documental
 8263,Yvonne Serand
 8264,Harold Smith
@@ -61095,10 +58598,7 @@ id,actor
 8268,Attilio Motta
 8269,Georges Méliès
 8270,Documental
-8270, (intervenciones de: William Kennedy Laurie Dickson)
 8271,Documental
-8271, (intervenciones de: Charles Kayser
-8271,John Ott)
 8272,Jeanne d'Alcy
 8272,Barral
 8272,Bleuette Bernon
@@ -61185,7 +58685,6 @@ id,actor
 8298,Babe London
 8299,Animación
 8300,Documental
-8300, (intervenciones de: John C. Reilly)
 8301,Animación
 8302,Animación
 8303,Animación
@@ -61813,7 +59312,6 @@ id,actor
 8423,Sam Flint
 8423,Glenn Corbett
 8424,Documental
-8424, (intervenciones de: Reggie Brown)
 8425,Erik Von Detten
 8425,Sam Horrigan
 8425,Christina Vidal
@@ -62275,10 +59773,6 @@ id,actor
 8506,Bartlett Robinson
 8506,Don Keefer
 8507,Documental
-8507, (intervenciones de: Walter Huston
-8507,Harry Davenport
-8507,Dana Andrews
-8507,Paul Hurst)
 8508,Natalie Wood
 8508,William Devane
 8508,Steve Railsback
@@ -62704,10 +60198,7 @@ id,actor
 8576,Animación
 8577,Bear Grylls
 8578,Documental
-8578, (intervenciones de: Rossano Brazzi
-8578,Stefano Sibaldi)
 8579,Documental
-8579, (intervenciones de: Michael Carr)
 8580,Mary Vivian Pearce
 8580,Divine
 8580,David Lochary
@@ -62718,28 +60209,13 @@ id,actor
 8580,Jack Walsh
 8580,Lizzy Temple Black
 8581,Documental
-8581, (intervenciones de: Chuck Riley
-8581,Ed Dorris
-8581,Thomas Noguchi
-8581,Sirhan Sirhan
-8581,Wayne Henley
-8581,Ed Kemper
-8581,Ted Bundy)
 8582,Documental
-8582, (intervenciones de: Sergio Rossi
-8582,Gualtiero Jacopetti
-8582,Ian Yule)
 8583,Documental
 8584,Documental
 8585,Documental
 8586,Documental
 8587,Documental
-8587, (intervenciones de: Fanne Foxe
-8587,Anibal O. Lleras
-8587,Ulli Lommel
-8587,Norman Rose)
 8588,Documental
-8588, (intervenciones de: Michael Carr)
 8589,Documental
 8590,Jake Gyllenhaal
 8590,René Russo
@@ -63272,13 +60748,6 @@ id,actor
 8655,Sandra Ximena Hoyos
 8655,Kharold García
 8656,Documental
-8656, (intervenciones de: Declan Conneely
-8656,Johnny Gatcombe
-8656,Adrian Guillette
-8656,Brian Jannelle
-8656,Clyde Lee
-8656,Arthur Smith
-8656,Christopher Swampstead)
 8657,Jorge Machado
 8657,Natan Machado Palombini
 8657,Roberta Palombini
@@ -63411,10 +60880,6 @@ id,actor
 8681,Bill Thurman
 8682,Documental
 8683,Documental
-8683, (intervenciones de: Fa'amgase
-8683,Pe'a
-8683,T'ugaita
-8683,Ta'avale)
 8684,Niall MacGinnis
 8684,John Laurie
 8684,Belle Chrystall
@@ -63488,16 +60953,6 @@ id,actor
 8697,Mari Natsuki
 8698,Documental
 8699,Documental
-8699, (intervenciones de: Ariel Hsing
-8699,Michael Hsing
-8699,Xinhua Jiang
-8699,Joan Landers
-8699,Michael Landers
-8699,Joan Landers
-8699,Linda Liu
-8699,Barney Reed
-8699,Erica Wu
-8699,Bob Zhang)
 8700,Jerry Johansson
 8700,Hampus Johansson
 8700,Ann-Sofie Nurmi
@@ -63611,7 +61066,6 @@ id,actor
 8712,Wolfgang Preiss
 8712,Albert Rémy
 8713,Documental
-8713, (intervenciones de: Antonio López)
 8714,Antonio Resines
 8714,Neus Asensi
 8714,Manuel Manquiña
@@ -63623,16 +61077,6 @@ id,actor
 8714,Coté Soler
 8714,Fernando Bilbao
 8715,Documental
-8715, (intervenciones de: Orson Welles
-8715,Oja Kodar
-8715,Joseph Cotten
-8715,Jean-Pierre Aumont
-8715,Laurence Harvey
-8715,François Reichenbach
-8715,Clifford Irving
-8715,Howard Hughes
-8715,Paul Stewart
-8715,Richard Wilson)
 8716,Timothy Spall
 8716,Dorothy Atkinson
 8716,Marion Bailey
@@ -65035,15 +62479,6 @@ id,actor
 8925,Sara Loscos
 8925,Andreu Banús
 8926,Documental
-8926, (intervenciones de: Dolores Ibárruri
-8926,Diego Abad de Santillán
-8926,Federica Montseny
-8926,Josep Tarradellas
-8926,Raimundo Fernández Cuesta
-8926,Julián Gorkin
-8926,Federico Escofet
-8926,José Luis de Vilallonga
-8926,Eduardo de Guzmán)
 8927,Documental
 8928,Raúl Arévalo
 8928,Juan Diego Botto
@@ -65408,8 +62843,6 @@ id,actor
 8998,Animación
 8999,Documental
 9000,Documental
-9000, (intervenciones de: Adolf Hitler
-9000,Josef Goebbels)
 9001,Patrick Swayze
 9001,C. Thomas Howell
 9001,Lea Thompson
@@ -65537,7 +62970,6 @@ id,actor
 9020,Daniel Brühl
 9020,Bo Svenson
 9021,Documental
-9021, (intervenciones de: Don Hollenbeck)
 9022,Takashi Shimura
 9022,Shoji Kiyokawa
 9022,Ichiro Sugai
@@ -65559,10 +62991,6 @@ id,actor
 9026,Documental
 9027,Documental
 9028,Documental
-9028, (intervenciones de: Rüdiger Suchsland
-9028,Rike Schmid
-9028,Hans Henrik Wöhler
-9028,Udo Kier)
 9029,Animación
 9029,Documental
 9029,Animación
@@ -65577,16 +63005,6 @@ id,actor
 9033,Carleton Young
 9033,Warren McCollum
 9034,Documental
-9034, (intervenciones de: Curt Bois
-9034,Charles Chaplin
-9034,Albert Einstein
-9034,Adolf Hitler
-9034,Fritz Kortner
-9034,Peter Lorre
-9034,Ernst Lubitsch
-9034,Rosa Luxemburg
-9034,Mona Maris
-9034,Anna Sten)
 9035,Errol Flynn
 9035,Fred MacMurray
 9035,Ralph Bellamy
@@ -66217,15 +63635,6 @@ id,actor
 9105,Jacky Ido
 9105,Juliette Plumecocq-Mech
 9106,Documental
-9106, (intervenciones de: Common
-9106,Rosario Dawson
-9106,DJ Premier
-9106,DMX
-9106,El -P
-9106,Eminem
-9106,Lauryn Hill
-9106,Jay-Z
-9106,KRS-One)
 9107,Gérard Lanvin
 9107,Gérard Jugnot
 9107,Omar Sy
@@ -66956,9 +64365,6 @@ id,actor
 9189,Ileana Wilson
 9190,Documental
 9191,Documental
-9191, (intervenciones de: Fidel Castro
-9191,Nelson Mandela
-9191,Vlasta Vrana)
 9192,Enrique Santiesteban
 9192,Reynaldo Miravalles
 9192,René Sánchez
@@ -67051,16 +64457,6 @@ id,actor
 9207,Mario Guerra
 9207,Carlos Enrique Almirante
 9208,Documental
-9208, (intervenciones de: Lorenzo Monreal
-9208,Luis Lazo
-9208,Rafael de Palet
-9208,Jorge Lago
-9208,Reynaldo Arenas
-9208,Guillermo Cabrera Infante 
-9208,Caracol
-9208,Fidel Castro
-9208,Carlos Franqui
-9208,Martha Frayde)
 9209,Documental
 9210,Francisco Rabal
 9210,John Ireland
@@ -67118,11 +64514,6 @@ id,actor
 9216,Pu Cunxin
 9216,Guo Baochang
 9217,Documental
-9217, (intervenciones de: Joan Chen
-9217,Lü Liping
-9217,Chen Jianbin
-9217,Lü Liping
-9217,Zhao Tao)
 9218,Xie Yuan
 9218,Yang Xuewen
 9218,Chen Shaohua
@@ -67339,11 +64730,6 @@ id,actor
 9244,Alfie Bass
 9244,Ernest Clark
 9245,Documental
-9245, (intervenciones de: Edward Herrmann
-9245,George Ivascu
-9245,Rodica Lazar
-9245,Tomi Cristin
-9245,Phillip X. Levine)
 9246,Richard E. Grant
 9246,Elizabeth McGovern
 9246,Martin Shaw
@@ -67706,16 +65092,6 @@ id,actor
 9286,Domingo Soler
 9286,Cuco Sánchez
 9287,Documental
-9287, (intervenciones de: Marcelino Anrubio
-9287,Audiaz Anzures
-9287,Captain Manuel Corona
-9287,Matías Cruz Corridista
-9287,Baldomero Blanquet Don
-9287,Galo Pacheco Lieutenant
-9287,Feliciano Mejía Messenger
-9287,Emeterio Pantaleon
-9287,Mauricio Ramírez
-9287,Felipe Ramos)
 9288,Animación
 9289,Eduardo Toussaint
 9289,Jorge Poza
@@ -68595,32 +65971,11 @@ id,actor
 9414,Griff Rhys Jones
 9414,Brian Glover
 9415,Documental
-9415, (intervenciones de: Taika Waititi
-9415,Nic Gill
-9415,Scott Barrett
-9415,Tony Page
-9415,Hanna Tevita)
 9416,Documental
 9417,
 9418,Documental
 9419,Documental
-9419, (intervenciones de: Serge Betsen
-9419,Bakkies Botha
-9419,Brian Cox
-9419,Ranulph Fiennes
-9419,Matt Giteau
-9419,Thian Jed
-9419,Pat Lam
-9419,Nili Latu
-9419,Nicky Little
-9419,Jason Robinson)
 9420,Documental
-9420, (intervenciones de: Matt Dawson
-9420,Peter FitzSimons
-9420,George Gregan
-9420,Martin Johnson
-9420,Jonny Wilkinson
-9420,Clive Woodward)
 9421,Animación
 9422,Animación
 9423,Animación
@@ -68909,7 +66264,6 @@ id,actor
 9464,Ewan Roberts
 9464,Peter Elliott
 9465,Documental
-9465, (intervenciones de: Bill Maher)
 9466,Takahiro Nishijima
 9466,Hikari Mitsushima
 9466,Sakura Ando
@@ -68951,11 +66305,6 @@ id,actor
 9469,Mahdi Chalkhaoui
 9469,Christopher Heyerdahl
 9470,Documental
-9470, (intervenciones de: Jason Beghe
-9470,Paul Haggis
-9470,Tom Cruise
-9470,John Travolta
-9470,Nazanin Boniadi)
 9471,Kate Winslet
 9471,Harvey Keitel
 9471,Julie Hamilton
@@ -71032,8 +68381,6 @@ id,actor
 9733,Natasha Gregson Wagner
 9733,Janeane Garofalo
 9734,Documental
-9734, (intervenciones de: Sasha Grey
-9734,Emily Ratajkowski)
 9735,Trey Parker
 9735,Michael Dean Jacobs
 9735,Robyn Lynne
@@ -71167,13 +68514,6 @@ id,actor
 9749,Tina Parker
 9749,Dacia Fernandez
 9750,Documental
-9750, (intervenciones de: Rocco Siffredi
-9750,Abella Danger
-9750,James Deen
-9750,Gabriele Galetta
-9750,Mark Spiegler
-9750,Kelly Stafford
-9750,John Stagliano)
 9751,Ami Tomite
 9751,Mariko Tsutsui
 9751,Fujiko
@@ -71185,16 +68525,6 @@ id,actor
 9751,Haruka Kuwana
 9751,Naoya Shimizu
 9752,Documental
-9752, (intervenciones de: Mary Carey
-9752,Amber Lynn
-9752,Asia Carrera
-9752,Nina Hartley
-9752,Crissy Moran
-9752,Luke Ford
-9752,Shelley Lubben
-9752,Kimber James
-9752,Bobby Slayton
-9752,Raylene)
 9753,Simon Baker
 9753,Garcelle Beauvais
 9753,Connie Britton
@@ -71789,7 +69119,6 @@ id,actor
 9815,Marcus Paul James
 9815,Justin Johnston
 9816,Documental
-9816, (intervenciones de: Madonna)
 9817,Lucy Liu
 9817,Chloë Sevigny
 9817,Olympia Dukakis
@@ -71808,20 +69137,12 @@ id,actor
 9818,Mónica Cabrera
 9818,Ricardo Moriello
 9819,Documental
-9819, (intervenciones de: Rocky Braat)
 9820,Berner Maynés
 9820,Cristina Colom
 9820,Lluís Marqués
 9820,Nuria Prims
 9821,Documental
-9821, (intervenciones de: Peter Staley
-9821,Garance Franke-Ruta
-9821,Mark Harrington
-9821,Iris Long
-9821,Larry Kramer)
 9822,Documental
-9822, (intervenciones de: Joaquim Pinto
-9822,Nuno Leonel)
 9823,Alejandro Tous
 9823,Olav Fernández
 9823,Zoraida Kroley
@@ -71842,12 +69163,6 @@ id,actor
 9824,Valeria Bruni Tedeschi
 9824,Vincent Pérez
 9825,Documental
-9825, (intervenciones de: Howard Ashman
-9825,Sarah Gillespie
-9825,Jeffrey Katzenberg
-9825,Bill Lauch
-9825,Alan Menken
-9825,Peter Schneider)
 9826,Adam Lundgren
 9826,Adam Pålsson
 9826,Björn Kjellman
@@ -71880,7 +69195,6 @@ id,actor
 9831,Derek Jarman
 9831,Tilda Swinton
 9832,Documental
-9832, (intervenciones de: Stéphane Drouot)
 9833,Klas-Gösta Olsson
 9833,Anne Tubin
 9833,Lennart Björklund
@@ -72242,14 +69556,6 @@ id,actor
 9876,Paco Manzanedo
 9876,Joan Massotkleiner
 9877,Documental
-9877, (intervenciones de: Álvaro Martín Ronco
-9877,Aitor Legardon
-9877,Miguel Díaz de Espada
-9877,Juan Luis Cabellos
-9877,Roberto Bonacini
-9877,Antonio Galán
-9877,Eduardo Calle
-9877,Gonzalo Barcel)
 9878,Maureen O'Hara
 9878,George Nader
 9878,Victor McLaglen
@@ -73354,16 +70660,6 @@ id,actor
 10002,Wilfrid Hyde-White
 10002,Eric Pohlmann
 10003,Documental
-10003, (intervenciones de: Charles Dance
-10003,Cem Yigit Uzümoglu
-10003,Tommaso Basili
-10003,Tolga Tekin
-10003,Damla Sönmez
-10003,Tuba Büyüküstün
-10003,Erdem Akakce
-10003,Tugrul Tulek
-10003,Erdal Yildiz
-10003,Birkan Sokullu)
 10004,Jeanne d'Alcy
 10004,Bleuette Bernon
 10004,Georges Méliès
@@ -74239,14 +71535,6 @@ id,actor
 10144,Karina Plachetka
 10144,Martin Reik
 10145,Documental
-10145, (intervenciones de: Ana Maria Rodriguez
-10145,Ricardo Urzúa
-10145,Andrés Martínez
-10145,Rita Guzmán
-10145,Daniel Mehech
-10145,Rodrigo Carrasco
-10145,Nicole L'hussier
-10145,Rodrigo González)
 10146,Christian Andersen Busk
 10146,Niklas Herskind
 10146,Kevin Lakomy
@@ -74974,8 +72262,6 @@ id,actor
 10221,Thaddeus Daniels
 10221,Judah Lang
 10222,Documental
-10222, (intervenciones de: Tony Hawk
-10222,Henry Rollins)
 10223,Lukas Ionesco
 10223,Niseema Theillaud
 10223,Valérie Maës
@@ -75053,13 +72339,6 @@ id,actor
 10232,Heath Freeman
 10232,Taylor Handley
 10233,Documental
-10233, (intervenciones de: Sebastián Añigual
-10233,Paulina Herrera
-10233,Sebastián Alcalde
-10233,Tomás Alul
-10233,Victor Bañados
-10233,Elizabeth Cabeza
-10233,Ignacio Bañados)
 10234,Mariano Blanco
 10234,Yenién Teves
 10234,Eugenia Juárez
@@ -75069,32 +72348,9 @@ id,actor
 10234,Gonzalo Orquin
 10234,Néstor Gianotti
 10235,Documental
-10235, (intervenciones de: Stacy Peralta
-10235,Tony Hawk
-10235,Rodney Mullen
-10235,Steve Caballero
-10235,Mike McGill
-10235,Lance Mountain
-10235,Tommy Guerrero
-10235,Craig Stecyk
-10235,Shepard Fairey
-10235,Spike Jonze)
 10236,Animación
 10237,Documental
-10237, (intervenciones de: Josh ‘Skreech’ Sandoval
-10237,Josh ‘Peacock’ Henderson
-10237,Leslie Brown)
 10238,Documental
-10238, (intervenciones de: Paul Rodriguez
-10238,Rob Dyrdek
-10238,Luan Oliveira
-10238,Nyjah Huston
-10238,Chris Cole
-10238,Ryan Sheckler
-10238,Chaz Ortiz
-10238,Bastien Salabanzi
-10238,Sean Malto
-10238,Felix Arguelles)
 10239,Haris Markou
 10239,Ieronymos Kaletsanos
 10239,Arthouros Kiviliov
@@ -75117,16 +72373,6 @@ id,actor
 10241,Onira Tares
 10241,Greg Andrews
 10242,Documental
-10242, (intervenciones de: Tom Asta
-10242,Edmund Bacon
-10242,Chris Cole
-10242,Rob Dyrdek
-10242,Tony Hawk
-10242,Nyjah Huston
-10242,Sean Malto
-10242,Bam Margera
-10242,Guy Mariano
-10242,Rodney Mullen)
 10243,Mickey Mahut
 10243,Idriss Diop
 10243,Elsa Pataky
@@ -75159,21 +72405,7 @@ id,actor
 10247,Ryan Reichenfeld
 10247,Corbett Jones
 10248,Documental
-10248, (intervenciones de: Mark Gonzales
-10248,Rudy Johnson
-10248,Jason Lee
-10248,Guy Mariano
-10248,Jordan Richter)
 10249,Documental
-10249, (intervenciones de: Tas Pappas
-10249,Ben Pappas
-10249,Tommy Caudill
-10249,Lance Conklin
-10249,Dom Kekich
-10249,Danny Minnick
-10249,Henry Sanchez
-10249,Greg Stewart
-10249,William Weiss)
 10250,Kabrina Adams
 10250,Justin Bullock
 10250,Amber Coffman
@@ -76283,7 +73515,6 @@ id,actor
 10372,Robert Kelly
 10373,Dani Rovira
 10374,Documental
-10374, (intervenciones de: Hannah Gadsby)
 10375,Eva Hache
 10375,Alexandra Jiménez
 10375,Ana Morgade
@@ -76363,7 +73594,6 @@ id,actor
 10401,Dave Chappelle
 10402,Bill Hicks
 10403,Documental
-10403, (intervenciones de: Bill Hicks)
 10404,Ellen DeGeneres
 10405,Jerry Seinfeld
 10406,James Franco
@@ -76392,7 +73622,6 @@ id,actor
 10412,Ed McMahon
 10412,Larry Miller
 10413,Documental
-10413, (intervenciones de: Eugenio)
 10414,Bill Burr
 10415,Richard Pryor
 10416,William Shatner
@@ -76556,16 +73785,6 @@ id,actor
 10431,Michael Dorn
 10432,Animación
 10433,Documental
-10433, (intervenciones de: Chris Pine
-10433,Zoe Saldana
-10433,Simon Pegg
-10433,Karl Urban
-10433,Zachary Quinto
-10433,J.J. Abrams
-10433,Mayim Bialik
-10433,Jim Parsons
-10433,William Shatner
-10433,Leonard Nimoy)
 10434,Patrick Stewart
 10434,Jonathan Frakes
 10434,LeVar Burton
@@ -76604,16 +73823,6 @@ id,actor
 10438,Jari Ahola
 10438,Sonja Sjöblom
 10439,Documental
-10439, (intervenciones de: William Shatner
-10439,Patrick Stewart
-10439,Avery Brooks
-10439,Chris Pine
-10439,Scott Bakula
-10439,Kate Mulgrew
-10439,Rene Auberjonois
-10439,Nana Visitor
-10439,Robert Picardo
-10439,Sally Kellerman)
 10440,Aldis Hodge
 10440,Doug Jones
 10440,Mary Wiseman
@@ -76762,16 +73971,9 @@ id,actor
 10466,Animación
 10467,Animación
 10468,Documental
-10468, (intervenciones de: Jon Favreau
-10468,Pedro Pascal
-10468,Gina Carano
-10468,John Knoll)
 10469,Animación
 10470,Animación
 10471,Documental
-10471, (intervenciones de: Bill Plympton
-10471,Ray Harryhausen
-10471,George Lucas)
 10472,Animación
 10473,Ludwig Göransson
 10474,Jim Carrey
@@ -77034,21 +74236,7 @@ id,actor
 10516,David A. Jørgensen
 10517,Animación
 10518,Documental
-10518, (intervenciones de: Patrik Grönqvist
-10518,Vesa Rantanen
-10518,Kai Kankanen
-10518,Sami Paakkarinen)
 10519,Documental
-10519, (intervenciones de: Jeff Bender
-10519,Charlie Arneson
-10519,John Bedford Lloyd
-10519,Michael Biehn
-10519,Kidd Brewer Jr.
-10519,Leo Burmester
-10519,James Cameron
-10519,Ron Cobb
-10519,Al Giddings
-10519,Todd Graff)
 10520,Documental
 10521,Robert Ryan
 10521,Mala Powers
@@ -77530,15 +74718,6 @@ id,actor
 10574,Documental
 10575,Documental
 10576,Documental
-10576, (intervenciones de: Chris Burkard
-10576,Sam Hammer
-10576,Steve Hawk
-10576,Sigurdur Jonsson
-10576,Heidar Logi
-10576,Elli Thor Magnusson
-10576,Ingo Olsen
-10576,Justin Quintal
-10576,Mark Renneker)
 10577,Jean Dujardin
 10577,Clovis Cornillac
 10577,Elodie Bouchez
@@ -77647,16 +74826,6 @@ id,actor
 10592,Steven Novick
 10592,Aron Michael Thompson
 10593,Documental
-10593, (intervenciones de: Kelly Slater
-10593,Martin 'The Animal' Potter
-10593,Kalani Robb
-10593,Thomas DeLonge
-10593,Shane Dorian
-10593,Taylor Steele
-10593,Jeannie Chesser
-10593,Fletcher Dragge
-10593,Sunny Garcia
-10593,Bob Hurley)
 10594,Maika Monroe
 10594,Jennifer Garner
 10594,Cody Fern
@@ -77668,9 +74837,6 @@ id,actor
 10594,Justin Kirk
 10594,Alex Neustaedter
 10595,Documental
-10595, (intervenciones de: Tom Carroll
-10595,Ben Matson
-10595,Ross Clark-Jones)
 10596,Animación
 10597,Vincenzo Amato
 10597,Olivia Castanho
@@ -78983,21 +76149,7 @@ id,actor
 10738,Paul Reiser
 10738,Nick Bailey
 10739,Documental
-10739, (intervenciones de: Guillermo Vilas
-10739,Eduardo Puppo
-10739,Gabriela Sabatini
-10739,Boris Becker
-10739,Björn Borg
-10739,Roger Federer
-10739,Rod Laver
-10739,Rafa Nadal
-10739,Mats Wilander)
 10740,Documental
-10740, (intervenciones de: Michael Robinson
-10740,Rafa Nadal
-10740,Toni Nadal
-10740,Maria Bueno
-10740,Doris Hart)
 10741,Animación
 10742,Craig Roberts
 10742,Jennifer Grey
@@ -79029,8 +76181,6 @@ id,actor
 10745,Deke Anderson
 10746,Animación
 10747,Documental
-10747, (intervenciones de: Feliciano López
-10747,Àlex Corretja)
 10748,Laurence Leboeuf
 10748,Kyle Switzer
 10748,Meaghan Rath
@@ -79042,19 +76192,8 @@ id,actor
 10748,Jemima West
 10748,Jaclyn Linetsky
 10749,Documental
-10749, (intervenciones de: John McEnroe)
 10750,Animación
 10751,Documental
-10751, (intervenciones de: Serena Williams
-10751,Novak Djokovic
-10751,Chris Evert
-10751,Mary Joe Fernandez
-10751,Billie Jean King
-10751,John McEnroe
-10751,Patrick Mouratoglou
-10751,Rafa Nadal
-10751,Pete Sampras
-10751,Andy Roddick)
 10752,Animación
 10753,Kanata Hongô
 10753,Yû Shirota
@@ -79067,12 +76206,7 @@ id,actor
 10753,Kousuke Kujirai
 10753,Ryûji Sainei
 10754,Documental
-10754, (intervenciones de: Nick Bollettieri)
 10755,Documental
-10755, (intervenciones de: Andy Murray
-10755,Brad Gilbert
-10755,Lleyton Hewitt
-10755,Ivan Lendl)
 10756,Documental
 10757,Animación
 10758,Documental
@@ -79105,7 +76239,6 @@ id,actor
 10764,Maia Levasseur-Costil
 10764,Pierre Benoist
 10765,Documental
-10765, (intervenciones de: Maria Sharapova)
 10766,Robert Culp
 10766,Bill Cosby
 10766,Kenneth Tobey
@@ -79196,11 +76329,6 @@ id,actor
 10777,Kaley Cuoco
 10777,Rebecca Jenkins
 10778,Documental
-10778, (intervenciones de: Félix Balderas
-10778,Martín Hernández
-10778,David Liceága
-10778,Julio Saldívar
-10778,Isabel Villaseño)
 10779,Byron Bowers
 10779,Hannibal Buress
 10779,Shane Carpenter
@@ -80007,8 +77135,6 @@ id,actor
 10869,Alec McCowen
 10869,George Rose
 10870,Documental
-10870, (intervenciones de: Bill Paxton
-10870,James Cameron)
 10871,Clifton Webb
 10871,Barbara Stanwyck
 10871,Robert Wagner
@@ -80049,26 +77175,7 @@ id,actor
 10874,Valentina Corti
 10875,Animación
 10876,Documental
-10876, (intervenciones de: Jacqueline Astor Drexel
-10876,Jim Ballard 
-10876,Harold Bride
-10876,Muffet Laurie Brown
-10876,James Cameron
-10876,Paul Kurzman
-10876,Don Lynch
-10876,Ken Marschall
-10876,William McMaster Murdoch
-10876,Jack Phillips)
 10877,Documental
-10877, (intervenciones de: Peter Coyote
-10877,James Cameron
-10877,Al Giddings
-10877,Kate Winslet
-10877,Leonardo DiCaprio
-10877,Ken Marschall
-10877,Don Lynch
-10877,Jon Landau
-10877,Eva Hart)
 10878,Claude Farell
 10878,Ernst Fritz Fürbringer
 10878,Kirsten Heiberg
@@ -80081,23 +77188,11 @@ id,actor
 10878,Otto Wernicke
 10879,Documental
 10880,Documental
-10880, (intervenciones de: Martin Sheen
-10880,Bob Ballard)
 10881,Documental
 10882,Documental
-10882, (intervenciones de: Russell Boulter)
 10883,Animación
 10884,Documental
-10884, (intervenciones de: Martin Sheen
-10884,Tim Foecke
-10884,E.J. Smith)
 10885,Documental
-10885, (intervenciones de: Jonathan Adams
-10885,Rebecca Chase
-10885,Emily Lambert
-10885,Ken Marschall
-10885,Bill Saude
-10885,Parks Stephenson)
 10886,Waldemar Hecker
 10886,Mime Misu
 10886,Otto Rippert
@@ -80407,16 +77502,6 @@ id,actor
 10963,Alejandra Nilo
 10963,Pilar Gómez Ferrer
 10964,Documental
-10964, (intervenciones de: Luis Procuna
-10964,Consuelo Procuna
-10964,Ángel Procuna
-10964,Antonio Sevilia
-10964,José Farjat
-10964,Arturo Fregoso
-10964,Ponciana Díaz
-10964,Paco Malgesto
-10964,Manolete
-10964,Carlos Arruza)
 10965,Animación
 10966,Michelle Pfeiffer
 10966,George Clooney
@@ -80770,16 +77855,6 @@ id,actor
 11004,Anaël Snoek
 11004,Pauline Lorillard
 11005,Documental
-11005, (intervenciones de: Jamie Clayton
-11005,Lilly Wachowski
-11005,Trace Lysette
-11005,Alexandra Grey
-11005,Leo Sheng
-11005,Laverne Cox
-11005,Candis Cayne
-11005,Elliot Fletcher
-11005,Mj Rodriguez
-11005,Jen Richards)
 11006,Rick Okon
 11006,Maximilian Befort
 11006,Liv Lisa Fries
@@ -80852,19 +77927,7 @@ id,actor
 11015,Leo James Davis
 11015,Cindy Cheung
 11016,Documental
-11016, (intervenciones de: Genesis P-Orridge
-11016,Lady Jaye Breyer P-Orridge)
 11017,Documental
-11017, (intervenciones de: Lorenzo Arana
-11017,René Amor
-11017,José Antonio Sánchez
-11017,Francisco Pérez Cobos
-11017,José Ruiz Orejón
-11017,Juan Muñoz Santiago
-11017,Carlos Picasa
-11017,Javier Burgos
-11017,Arturo González
-11017,Pedro Basanta)
 11018,Fernando Santos
 11018,Alexander David
 11018,Gonçalo Ferreira De Almeida
@@ -80879,13 +77942,6 @@ id,actor
 11019,Maite Lanata
 11019,Naty Menstrual
 11020,Documental
-11020, (intervenciones de: Amanda Lepore
-11020,Sophia Lamar
-11020,Chloe Dzubilo
-11020,Bibbe Hansen
-11020,Io Tillett-Wright
-11020,Katrina del Mar
-11020,Linda Simpson)
 11021,Mario Montez
 11022,Trine Dyrholm
 11022,David Dencik
@@ -81166,23 +78222,11 @@ id,actor
 11052,Simona Williams
 11053,Documental
 11054,Documental
-11054, (intervenciones de: Joe Exotic
-11054,John Reinke
-11054,Kelci Saffery
-11054,Rick Kirkham
-11054,Carole Baskin
-11054,Erik Cowie
-11054,Bhagavan Antle
-11054,Howard Baskin
-11054,Jeff Lowe
-11054,Lauren Lowe)
 11055,Documental
 11056,Documental
 11057,Documental
 11058,Documental
-11058,Tom Scorzone
 11059,Documental
-11059, (intervenciones de: Judy Ho)
 11060,Documental
 11061,Documental
 11062,Tyler Alvarez
@@ -81197,28 +78241,8 @@ id,actor
 11062,Lukas Gage
 11063,Documental
 11064,Documental
-11064, (intervenciones de: Carlos Carrascosa
-11064,Horacio García Belsunce
-11064,John Hurtig
-11064,Irene Hurtig
-11064,Diego Molina Pico
-11064,Pablo Duggan
-11064,Rolando Barbano)
 11065,Documental
-11065, (intervenciones de: Jason Baldwin
-11065,Damien Wayne Echols
-11065,Jessie Miskelly)
 11066,Documental
-11066, (intervenciones de: Aaron Swartz
-11066,Tim Berners-Lee
-11066,Cindy Cohn
-11066,Gabriella Coleman
-11066,Cory Doctorow
-11066,Peter Eckersley
-11066,Brewster Kahle
-11066,Lawrence Lessig
-11066,Zoe Lofgren
-11066,Carl Malamud)
 11067,Documental
 11068,Documental
 11069,Erwin Leder
@@ -81231,20 +78255,8 @@ id,actor
 11070,Documental
 11071,Documental
 11072,Documental
-11072, (intervenciones de: Werner Herzog)
 11073,Documental
-11073, (intervenciones de: Jan Broberg
-11073,Mary Ann Broberg
-11073,Bob Broberg
-11073,Pete Welsh
-11073,Karen Campbell
-11073,Joe Berchtold
-11073,Susan Broberg
-11073,Cor Hoffman
-11073,Caroline Pearson
-11073,Diana Concannon)
 11074,Documental
-11074, (intervenciones de: Peter Thomas)
 11075,Pablo Molinero
 11075,Jordi Ballester
 11075,Belén Riquelme
@@ -81276,43 +78288,13 @@ id,actor
 11080,Dulfi Al-Jabouri
 11080,Henrik Birch
 11081,Documental
-11081, (intervenciones de: Phil Ryan
-11081,Bob Prince
-11081,Hugh Aynesworth
-11081,Nan Cuba
-11081,Clemmie Schroeder
-11081,Joyce Lemons
-11081,Liz Flatt
-11081,Mike Cox
-11081,Parker McCollough
-11081,Jim Henderson)
 11082,Documental
 11083,Documental
-11083, (intervenciones de: Hannah Cagwin
-11083,Aeona Cruz
-11083,Liv Bagley
-11083,Shylee Sagle
-11083,Danika Toolson
-11083,Nicole Hamilton
-11083,Emma Winslow
-11083,Elle Walker
-11083,Jerry Cortese
-11083,Kit Thompson)
 11084,Documental
 11085,Documental
 11086,Documental
 11087,Documental
 11088,Documental
-11088, (intervenciones de: Daniel Peera
-11088,Michael C. Pizzuto
-11088,Alistair David Herz
-11088,Nicholas Adam Clark
-11088,"William ""Will"" Daubert"
-11088,Kelly Donahue
-11088,Brock Everett
-11088,Michael Gitomer
-11088,Derrick Hunter
-11088,Amber Renee Jenkins)
 11089,Documental
 11090,Documental
 11091,Josh Hartnett
@@ -82533,7 +79515,6 @@ id,actor
 11253,Wyrley Birch
 11253,Ward Bond
 11254,Documental
-11254, (intervenciones de: Werner Herzog)
 11255,Maximilian Schell
 11255,Diane Baker
 11255,Brian Keith
@@ -82625,16 +79606,6 @@ id,actor
 11264,Philip Dunbar
 11265,
 11266,Documental
-11266, (intervenciones de: Rupert Penry-Jones
-11266,Olivia Williams
-11266,Ramon Tikaram
-11266,Kevin McMonagle
-11266,Robert Hobbs
-11266,William Miller
-11266,James MacEwan
-11266,Connor Dowds
-11266,David Dennis
-11266,Janine Wood)
 11267,Michael Riley
 11267,Gary Lewis
 11267,Shaun Johnston
@@ -82694,8 +79665,6 @@ id,actor
 11274,Alexandra Petrova-Emisti
 11274,Owen Davis
 11275,Documental
-11275, (intervenciones de: Silvia Navaro
-11275,Francisco Pérez)
 11276,Documental
 11277,Bill Pullman
 11277,Cathy Tyson
@@ -83438,11 +80407,7 @@ id,actor
 11383,Stephen Farrelly
 11383,Paul Lazenby
 11384,Documental
-11384, (intervenciones de: André the Giant)
 11385,Documental
-11385, (intervenciones de: Zion Clark
-11385,Kimberly Clark
-11385,Gilbert Donahue)
 11386,Peter Falk
 11386,Vicki Frederick
 11386,Laurene Landon
@@ -83524,11 +80489,6 @@ id,actor
 11396,Patrick O'Bryan
 11396,Rebecca Wackler
 11397,Documental
-11397, (intervenciones de: Terry Funk
-11397,Mick Foley
-11397,Jake Roberts
-11397,Darren Drozdov
-11397,Dwayne Johnson)
 11398,Animación
 11399,Kana Ishida
 11399,Osamu Nishimura
@@ -83539,7 +80499,6 @@ id,actor
 11399,Nobuo Kameko
 11399,Yoshihiro Takayama
 11400,Documental
-11400, (intervenciones de: Cassandro)
 11401,Animación
 11402,Animación
 11403,Santo
@@ -83612,17 +80571,9 @@ id,actor
 11409,El hijo del Santo
 11409,El Rebelde Rojo
 11410,Documental
-11410, (intervenciones de: Ronda Rousey
-11410,Gary Stretch
-11410,Pete Antico
-11410,Gene LeBell
-11410,Lucia Rijker
-11410,Gokor Chivichyan)
 11411,Documental
 11412,Animación
 11413,Documental
-11413, (intervenciones de: Magnus Bech Olsens
-11413,Poul Pons)
 11414,Liu Yifei
 11414,Donnie Yen
 11414,Gong Li
