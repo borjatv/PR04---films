@@ -1,0 +1,412 @@
+id_gen,genero
+0,Documental
+1,11-S
+2,Guerra de Iraq
+3,Thriller
+4,Acción
+5,Drama
+6,Terrorismo
+7,Basado en hechos reales
+8,Película de culto
+9,Religión
+10,Cine independiente USA
+11,Divulgativo/Educativo
+12,Aviones
+13,Secuestros / Desapariciones
+14,Bomberos
+15,Infancia
+16,Melodrama
+17,Romance
+18,Drama romántico
+19,Enfermedad
+20,Discapacidad
+21,Racismo
+22,Amistad
+23,Bélico
+24,Guerra de Afganistán
+25,Ejército
+26,Película de episodios
+27,Serie de TV
+28,Miniserie de TV
+29,Documental sobre Historia
+30,Telefilm
+31,Cortometraje
+32,Política
+33,Conflicto árabe-israelí
+34,Espionaje
+35,Bolsa & Negocios
+36,Propaganda
+37,Biográfico
+38,Animación
+39,Cortometraje (animación)
+40,Catástrofes
+41,Musical
+42,Mediometraje
+43,Aventuras
+44,3-D
+45,Titanic
+46,Cine épico
+47,Ciencia ficción
+48,Fantástico
+49,Naturaleza
+50,Extraterrestres
+51,Comedia
+52,Infantil
+53,Muñecos
+54,Pixar
+55,Cine familiar
+56,Vejez/Madurez
+57,Cuentos
+58,Secuela
+59,Terror
+60,Comedia de terror
+61,Monstruos
+62,Halloween
+63,Navidad
+64,Stop Motion
+65,Animación para adultos
+66,Familia
+67,Los Simpson
+68,Aventura espacial
+69,Supervivencia
+70,Fantasía medieval
+71,Espada y brujería
+72,Precuela
+73,Superhéroes
+74,Cómic
+75,Marvel Comics
+76,Pandemias
+77,Zombis
+78,Años 60
+79,Años 70
+80,Aventuras marinas
+81,Animales
+82,Magia
+83,Young Adult
+84,Star Wars
+85,Dragones
+86,Mitología
+87,Intriga
+88,Años 30
+89,Cine dentro del cine
+90,Steampunk
+91,II Guerra Mundial
+92,Nazismo
+93,Piratas
+94,Capa y espada
+95,Adopción
+96,Crimen
+97,Robos & Atracos
+98,Dinosaurios
+99,DC Comics
+100,Robots
+101,Adolescencia
+102,Osos
+103,Vikingos
+104,Futuro postapocalíptico
+105,Simios
+106,Spin-off
+107,Años 20
+108,Videojuego
+109,Prehistoria
+110,Viajes en el tiempo
+111,Colegios & Universidad
+112,Comedia negra
+113,Abusos sexuales
+114,Periodismo
+115,Asesinos en serie
+116,Homosexualidad
+117,Enseñanza
+118,Thriller psicológico
+119,Internet/Informática
+120,Venganza
+121,Remake
+122,Policíaco
+123,Años 90
+124,Sectas
+125,Acoso escolar/bullying
+126,Maternidad
+127,Comedia dramática
+128,Historias cruzadas
+129,Guerra de Vietnam
+130,Prostitución
+131,Drogas
+132,Drama social
+133,Siglo XIV
+134,Edad Media
+135,True Crime
+136,Drama judicial / Abogados/as
+137,Drama psicológico
+138,Gore
+139,Caza
+140,Años 80
+141,Años 40
+142,Guerra Civil Española
+143,Medicina
+144,Sátira
+145,Guerra de Bosnia
+146,Trabajo/empleo
+147,Erótico
+148,Feminismo
+149,Serie B
+150,Deporte
+151,Karate
+152,Artes marciales
+153,Vampiros
+154,Sobrenatural
+155,Comedia juvenil
+156,África
+157,Autismo
+158,Discapacidad auditiva
+159,Manga
+160,Años 50
+161,Matemáticas
+162,Fútbol americano
+163,Años 1900 (circa)
+164,Vida rural
+165,Pobreza
+166,Bandas/pandillas callejeras
+167,Comedia romántica
+168,Baile
+169,Alzheimer
+170,Música
+171,Slasher
+172,Sitcom familiar
+173,Nouvelle vague
+174,Vida rural (Norteamérica)
+175,Realismo mágico
+176,Cocina
+177,Años 1910-1919
+178,Baloncesto
+179,Bodas
+180,Falso documental
+181,Trenes/Metros
+182,Roedores
+183,Road Movie
+184,Siglo XIX
+185,Inmigración
+186,Colonialismo
+187,I Guerra Mundial
+188,Pesca
+189,Ajedrez
+190,Guerra Fría
+191,Pintura
+192,Drama carcelario
+193,Mumblecore
+194,Serie [Colombo]
+195,Cine mudo
+196,Orígenes del cine
+197,Cine experimental
+198,Literatura
+199,Surrealismo
+200,Documental deportivo
+201,Juego
+202,Japón feudal
+203,Samuráis
+204,Alcoholismo
+205,Póker
+206,Jazz
+207,Drama sureño
+208,Neo-noir
+209,Boxeo
+210,Drama de época
+211,Sitcom
+212,Alpinismo/Escalada
+213,Metraje encontrado
+214,ETA
+215,Esquí
+216,Revolución cultural china
+217,Holocausto
+218,Coronavirus (COVID-19)
+219,Documental sobre música
+220,América colonial
+221,Siglo XVIII
+222,Histórico
+223,Conquista de América
+224,Siglo XVII
+225,Siglo XVI
+226,Teatro
+227,Esclavitud
+228,Western
+229,Telenovela
+230,Amish
+231,Bolos
+232,Comedia absurda
+233,Antigua Roma
+234,Mafia
+235,Toros
+236,Nochevieja / Año nuevo
+237,Cine negro
+238,Buddy Film
+239,Stand-Up
+240,Coches/Automovilismo
+241,Payasos
+242,Cyberpunk
+243,Thriller futurista
+244,Holocausto nuclear
+245,Parodia
+246,Claymation (Plastilina)
+247,Guerra de Líbano
+248,Distopía
+249,Brujería
+250,Ninjas
+251,Marionetas
+252,Serie de antología
+253,Televisión
+254,Caballos
+255,Western futurista
+256,Tiburones
+257,Perros/Lobos
+258,Cocodrilos
+259,Aves/Pájaros
+260,Delfines
+261,Biblia
+262,Serpientes
+263,Orcas
+264,Documental científico
+265,Gran Depresión
+266,Hípica
+267,Antigua Grecia
+268,Antiguo Egipto
+269,Volcanes
+270,Juegos olímpicos
+271,Revolución Francesa
+272,Siglo XV
+273,Corto publicitario
+274,Arquitectura
+275,Videoclip
+276,Silly Symphony
+277,Celos
+278,Sherlock Holmes
+279,Wuxia
+280,Sexualidad y pornografía
+281,Casas encantadas
+282,Fantasmas
+283,Live-Action
+284,Circo
+285,Gatos
+286,Ballet
+287,Revolución Mexicana
+288,Spaghetti Western
+289,Revolución Rusa
+290,SIDA
+291,Atletismo
+292,Transexualidad / transgénero
+293,IRA
+294,Vudú
+295,Terremotos
+296,Posguerra española
+297,Guerra Chino-Japonesa (II)
+298,Looney Tunes
+299,Submarinismo
+300,Discapacidad visual
+301,Pearl Harbor
+302,Radio
+303,Revolución Cubana
+304,Moda
+305,Ping-pong
+306,Dictadura argentina
+307,Posesiones/Exorcismos
+308,Guerra del Golfo
+309,Rugby
+310,Hip Hop
+311,Patinaje sobre hielo
+312,Motos
+313,Guerra de Afganistán-URSS
+314,Arañas
+315,Insectos
+316,Dragon Ball
+317,Siglo IX
+318,Fútbol
+319,Yakuza & Triada
+320,Free Cinema
+321,Gimnasia
+322,Vela
+323,Ciclismo
+324,Natación
+325,Tenis
+326,Golf
+327,Béisbol
+328,Star Trek
+329,Guerras Napoleónicas
+330,Submarinos
+331,Día de Acción de Gracias
+332,Crisis económica 2008
+333,Ópera
+334,Síndrome de Down
+335,Hombres lobo
+336,Guerra de los Balcanes
+337,Balonmano
+338,Cine quinqui
+339,Skateboarding
+340,Patinaje sobre ruedas
+341,Cricket
+342,Billar
+343,Tom y Jerry
+344,Guerra de Secesión
+345,Blaxploitation
+346,Documental sobre cine
+347,Fin del mundo
+348,Comedia screwball
+349,Comedia sofisticada
+350,Nueva Ola Checoslovaca
+351,Surf
+352,Mickey Mouse
+353,Pato Donald
+354,Neorrealismo
+355,Giallo
+356,Fashion Film
+357,Siglo XIII
+358,Siglo XII
+359,Esgrima
+360,Siglo XI
+361,J-Horror
+362,Fan Film
+363,Realismo poético francés
+364,Pantera rosa
+365,Guerra de Independencia Americana
+366,Siglo X
+367,Flamenco
+368,Cinema novo brasileño
+369,Expresionismo alemán
+370,Sketches
+371,Wrestling/Lucha libre
+372,Entrevista
+373,Preescolar
+374,Webserie / Serie Online
+375,Conciertos
+376,CrossFit
+377,Lego
+378,Documental marino
+379,Mockbuster
+380,Fotografía
+381,Dictadura chilena
+382,Guerra de las Malvinas
+383,Dictadura República Dominicana
+384,Dictadura uruguaya
+385,Doctor Who
+386,Hockey sobre hielo
+387,Dogma
+388,Historia de Indonesia
+389,Guerra Civil Camboyana
+390,Documental sobre videojuegos
+391,eSports
+392,Película interactiva
+393,James Bond
+394,Película Mondo
+395,Motion Comic
+396,Pixel Art
+397,Guerra de la Independencia Española
+398,Guerra Civil de El Salvador
+399,Revolución Sandinista
+400,Guerra de Corea
+401,Guerra de Cuba
+402,Guerra de Siria
+403,Serie [Alfred Hitchcock presenta]
+404,Judo
+405,Krimi
+406,Serie [Pesadillas y alucinaciones]
+407,RV
+408,Serie [What a Cartoon!]
+409,Siglo VII
+410,Siglo VIII
