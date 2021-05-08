@@ -3,7 +3,7 @@
 # Proyecto 04: Data visualization
 *Borja Teruelo y Patricia Barrantes*
 
-*Data Analytics, Part Time, Barcelona, April 2021*
+*Data Analytics, Part Time, Barcelona, May 2021*
 
 ## Resumen
 
